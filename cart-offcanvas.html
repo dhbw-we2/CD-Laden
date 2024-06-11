@@ -1,0 +1,38 @@
+<div class="offcanvas offcanvas-end" tabindex="-1" id="cart-offcanvas">
+    <div class="offcanvas-header">
+        <h5 class="offcanvas-title">Warenkorb</h5>
+        <button type="button" class="btn-close end-0" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+    </div>
+    <div class="offcanvas-body">
+        <div class="container">
+            <div class="row">
+                {{#unless (cart_size)}}
+                    <p>Ihr Warenkorb ist leer</p>
+                {{/unless}}
+                {{#each cart_items}}
+                    <div class="col-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <img src="{{item.image_url}}" alt="Album Cover" class="img-fluid">
+                                        </div>
+                                        <div class="col-6">
+                                            <h5 class="card-title"
+                                                style="overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2">{{item.name}}</h5>
+                                            <p class="lead">x {{amount}}</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {{/each}}
+            </div>
+        </div>
+    </div>
+    <div class="bg-white sticky-bottom">
+        <a class="btn btn-primary m-3 align-content-center" href="cart.html">Zum Warenkorb</a>
+    </div>
+</div>

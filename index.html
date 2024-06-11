@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>web dev shop</title>
+    <link href="css/bootstrap_lux.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/custom-styles.css">
+    <script src="js/handlebars.min-v4.7.8.js"></script>
+
+    <script src="js/vanilla.js"></script>
+
+    <script src="js/globals.js"></script>
+
+    <script src="js/index-script.js"></script>
+</head>
+
+
+<body onload="init()">
+<div class="sticky-top">
+    <script type="text/x-handlebars-template" id="navbar-template">
+        {{>navbar index="active"}}
+    </script>
+</div>
+<div>
+    <script type="text/x-handlebars-template" id="cart-offcanvas-template">
+        {{>cart-offcanvas }}
+    </script>
+</div>
+<div>
+    <div class="offcanvas offcanvas-start" data-bs-backdrop="true" tabindex="-1" id="filter-offcanvas"
+         aria-labelledby="offcanvasLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasLabel">Filter</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <script type="text/x-handlebars-template" id="genre-list">
+                <div class="container">
+                    <h3>Preis</h3>
+                    <div class="row">
+                        <div class="input-group">
+                            <div class="col-5 m-1">
+                                <label class="form-label" for="min-filter-input">Von</label>
+                                <input class="form-control" type="number" id="min-filter-input">
+                            </div>
+                            <div class="col-5 m-1">
+                                <label class="form-label" for="max-filter-input">Bis</label>
+                                <input class="form-control" type="number" id="max-filter-input">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <h3>Genre</h3>
+                <ul class="list-group h-50" id="genre-checkbox-list" style="overflow-y: scroll">
+                    {{#each genres}}
+                        <li class="list-group-item">
+                            <input class="form-check-input me-1" type="checkbox" value="{{this}}"
+                                   id="checkbox-{{this}}">
+                            <label class="form-check-label stretched-link"
+                                   for="checkbox-{{this}}">{{capitalize_firsts this}}</label>
+                        </li>
+                    {{/each}}
+                </ul>
+            </script>
+        </div>
+    </div>
+</div>
+
+<div>
+    <div class="container mt-3">
+        <div class="row">
+            <div class="col-md-3 col-6">
+                <label for="filter-button"></label>
+                <button class="btn btn-outline-primary form-control" data-bs-toggle="offcanvas" data-bs-target="#filter-offcanvas" id="filter-button">
+                    <img class="me-1" src="assets/filtering.png" alt="filter-icon" height="20" width="20">
+                    Filter
+                </button>
+            </div>
+            <div class="col-md-3 col-6">
+                <form>
+                    <label for="sorting-select">Sortierung</label>
+                    <select name="sorting" id="sorting-select" class="form-select" onchange="apply_filters()">
+                        <option value="A-to-Z">Album aufsteigend</option>
+                        <option value="Z-to-A">Album absteigend</option>
+                        <option value="p-low-to-high">Preis aufsteigend</option>
+                        <option value="p-high-to-low">Preis absteigend</option>
+                        <option value="Artist-A-Z">Künstler aufsteigend</option>
+                        <option value="Artist-Z-A">Künstler absteigend</option>
+                    </select>
+                </form>
+            </div>
+            <div class="col-md-6 col-12">
+                <label for="search-input">Suche</label>
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Track, Künstler, Genre..." id="search-input">
+                    <button class="btn btn-success" type="button" id="search-button">Suchen</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <script type="text/x-handlebars-template" id="item-list">
+        {{>item-list }}
+    </script>
+</div>
+
+<script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,7979 @@
+[
+  {
+    "id": 0,
+    "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "num_tracks": 31,
+    "release_date": "2024-04-19",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+    "artist": "Taylor Swift",
+    "genres": [
+      "pop"
+    ],
+    "price": 2699,
+    "tracks": [
+      {
+        "name": "Fortnight (feat. Post Malone)",
+        "duration_ms": 228965
+      },
+      {
+        "name": "The Tortured Poets Department",
+        "duration_ms": 293048
+      },
+      {
+        "name": "My Boy Only Breaks His Favorite Toys",
+        "duration_ms": 203801
+      },
+      {
+        "name": "Down Bad",
+        "duration_ms": 261228
+      },
+      {
+        "name": "So Long, London",
+        "duration_ms": 262974
+      },
+      {
+        "name": "But Daddy I Love Him",
+        "duration_ms": 340428
+      },
+      {
+        "name": "Fresh Out The Slammer",
+        "duration_ms": 210789
+      },
+      {
+        "name": "Florida!!! (feat. Florence + The Machine)",
+        "duration_ms": 215463
+      },
+      {
+        "name": "Guilty as Sin?",
+        "duration_ms": 254365
+      },
+      {
+        "name": "Who\u2019s Afraid of Little Old Me?",
+        "duration_ms": 334084
+      },
+      {
+        "name": "I Can Fix Him (No Really I Can)",
+        "duration_ms": 156297
+      },
+      {
+        "name": "loml",
+        "duration_ms": 277156
+      },
+      {
+        "name": "I Can Do It With a Broken Heart",
+        "duration_ms": 218004
+      },
+      {
+        "name": "The Smallest Man Who Ever Lived",
+        "duration_ms": 245541
+      },
+      {
+        "name": "The Alchemy",
+        "duration_ms": 196900
+      },
+      {
+        "name": "Clara Bow",
+        "duration_ms": 216662
+      },
+      {
+        "name": "The Black Dog",
+        "duration_ms": 238857
+      },
+      {
+        "name": "imgonnagetyouback",
+        "duration_ms": 222072
+      },
+      {
+        "name": "The Albatross",
+        "duration_ms": 183878
+      },
+      {
+        "name": "Chloe or Sam or Sophia or Marcus",
+        "duration_ms": 213281
+      },
+      {
+        "name": "How Did It End?",
+        "duration_ms": 238706
+      },
+      {
+        "name": "So High School",
+        "duration_ms": 228800
+      },
+      {
+        "name": "I Hate It Here",
+        "duration_ms": 243875
+      },
+      {
+        "name": "thanK you aIMee",
+        "duration_ms": 263817
+      },
+      {
+        "name": "I Look in People's Windows",
+        "duration_ms": 131907
+      },
+      {
+        "name": "The Prophecy",
+        "duration_ms": 249807
+      },
+      {
+        "name": "Cassandra",
+        "duration_ms": 240205
+      },
+      {
+        "name": "Peter",
+        "duration_ms": 283957
+      },
+      {
+        "name": "The Bolter",
+        "duration_ms": 238241
+      },
+      {
+        "name": "Robin",
+        "duration_ms": 240893
+      },
+      {
+        "name": "The Manuscript",
+        "duration_ms": 224743
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Augen Husky 2",
+    "num_tracks": 16,
+    "release_date": "2024-05-09",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273f44bff8fb8e4cbca884f876a",
+    "artist": "Olexesh",
+    "genres": [
+      "german drill",
+      "german hip hop"
+    ],
+    "price": 1399,
+    "tracks": [
+      {
+        "name": "Steig ein",
+        "duration_ms": 153673
+      },
+      {
+        "name": "Pistoleta",
+        "duration_ms": 133765
+      },
+      {
+        "name": "Sie arbeitet hart",
+        "duration_ms": 123502
+      },
+      {
+        "name": "Sophia",
+        "duration_ms": 144305
+      },
+      {
+        "name": "Te quiero",
+        "duration_ms": 151778
+      },
+      {
+        "name": "Schutzengel",
+        "duration_ms": 157995
+      },
+      {
+        "name": "Mademoiselle",
+        "duration_ms": 198138
+      },
+      {
+        "name": "8 Promille",
+        "duration_ms": 169611
+      },
+      {
+        "name": "Motorsport",
+        "duration_ms": 137328
+      },
+      {
+        "name": "Vermisse den Block",
+        "duration_ms": 176526
+      },
+      {
+        "name": "Poster",
+        "duration_ms": 190509
+      },
+      {
+        "name": "Cabrio",
+        "duration_ms": 121541
+      },
+      {
+        "name": "Wenn sie kommen",
+        "duration_ms": 222200
+      },
+      {
+        "name": "Ich feier den scheiss",
+        "duration_ms": 147264
+      },
+      {
+        "name": "Nach vorne",
+        "duration_ms": 148416
+      },
+      {
+        "name": "Warum",
+        "duration_ms": 192136
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "UTOPIA",
+    "num_tracks": 19,
+    "release_date": "2023-07-28",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
+    "artist": "Travis Scott",
+    "genres": [
+      "rap",
+      "slap house"
+    ],
+    "price": 1699,
+    "tracks": [
+      {
+        "name": "HYAENA",
+        "duration_ms": 222085
+      },
+      {
+        "name": "THANK GOD",
+        "duration_ms": 184888
+      },
+      {
+        "name": "MODERN JAM (feat. Teezo Touchdown)",
+        "duration_ms": 255412
+      },
+      {
+        "name": "MY EYES",
+        "duration_ms": 251249
+      },
+      {
+        "name": "GOD'S COUNTRY",
+        "duration_ms": 127991
+      },
+      {
+        "name": "SIRENS",
+        "duration_ms": 204447
+      },
+      {
+        "name": "MELTDOWN (feat. Drake)",
+        "duration_ms": 246133
+      },
+      {
+        "name": "FE!N (feat. Playboi Carti)",
+        "duration_ms": 191700
+      },
+      {
+        "name": "DELRESTO (ECHOES) (feat. Beyonc\u00e9)",
+        "duration_ms": 274137
+      },
+      {
+        "name": "I KNOW ?",
+        "duration_ms": 211582
+      },
+      {
+        "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
+        "duration_ms": 223173
+      },
+      {
+        "name": "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
+        "duration_ms": 258842
+      },
+      {
+        "name": "PARASAIL (feat. Yung Lean & Dave Chappelle)",
+        "duration_ms": 154964
+      },
+      {
+        "name": "SKITZO (feat. Young Thug)",
+        "duration_ms": 366592
+      },
+      {
+        "name": "LOST FOREVER (feat. Westside Gunn)",
+        "duration_ms": 163071
+      },
+      {
+        "name": "LOOOVE (feat. Kid Cudi)",
+        "duration_ms": 226715
+      },
+      {
+        "name": "K-POP (feat. Bad Bunny & The Weeknd)",
+        "duration_ms": 185220
+      },
+      {
+        "name": "TELEKINESIS (feat. SZA & Future)",
+        "duration_ms": 353754
+      },
+      {
+        "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+        "duration_ms": 314836
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "kleine Feuer",
+    "num_tracks": 13,
+    "release_date": "2024-03-08",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273202c4fbb9f05eb6301f9ec25",
+    "artist": "Paula Hartmann",
+    "genres": [
+      "german hip hop"
+    ],
+    "price": 1099,
+    "tracks": [
+      {
+        "name": "Gespenst",
+        "duration_ms": 183586
+      },
+      {
+        "name": "DLIT (die Liebe ist tot)",
+        "duration_ms": 166128
+      },
+      {
+        "name": "Crossfades",
+        "duration_ms": 166157
+      },
+      {
+        "name": "Candy Crush",
+        "duration_ms": 157647
+      },
+      {
+        "name": "Disney",
+        "duration_ms": 218726
+      },
+      {
+        "name": "zwischen 2 und 5",
+        "duration_ms": 118974
+      },
+      {
+        "name": "7 M\u00e4dchen",
+        "duration_ms": 173186
+      },
+      {
+        "name": "schwarze SUVs",
+        "duration_ms": 170300
+      },
+      {
+        "name": "gebrochenes Glas",
+        "duration_ms": 198513
+      },
+      {
+        "name": "Atlantis",
+        "duration_ms": 154679
+      },
+      {
+        "name": "sag was",
+        "duration_ms": 204044
+      },
+      {
+        "name": "kleine Feuer",
+        "duration_ms": 158359
+      },
+      {
+        "name": "Snoopy",
+        "duration_ms": 273264
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gartenstadt",
+    "num_tracks": 15,
+    "release_date": "2023-06-09",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273a25d8a6aaacfe60f336df3d2",
+    "artist": "Apache 207",
+    "genres": [
+      "german hip hop"
+    ],
+    "price": 1299,
+    "tracks": [
+      {
+        "name": "Was wei\u00dft du schon",
+        "duration_ms": 209937
+      },
+      {
+        "name": "Breaking your heart",
+        "duration_ms": 170579
+      },
+      {
+        "name": "Wenn das so bleibt",
+        "duration_ms": 161703
+      },
+      {
+        "name": "Ein letztes Mal",
+        "duration_ms": 188022
+      },
+      {
+        "name": "Kurz vor 4",
+        "duration_ms": 140173
+      },
+      {
+        "name": "Neunzig",
+        "duration_ms": 145606
+      },
+      {
+        "name": "Coco Chanel",
+        "duration_ms": 170440
+      },
+      {
+        "name": "Capri Sonne",
+        "duration_ms": 163036
+      },
+      {
+        "name": "Ohne Gnade",
+        "duration_ms": 175815
+      },
+      {
+        "name": "Vorstadt",
+        "duration_ms": 156403
+      },
+      {
+        "name": "Gefunden",
+        "duration_ms": 156177
+      },
+      {
+        "name": "Schimmel in der Villa",
+        "duration_ms": 195107
+      },
+      {
+        "name": "Geblitzt",
+        "duration_ms": 176904
+      },
+      {
+        "name": "Raus hier",
+        "duration_ms": 139488
+      },
+      {
+        "name": "Komet",
+        "duration_ms": 167346
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "One of Wun",
+    "num_tracks": 20,
+    "release_date": "2024-05-10",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273c67636f3021f5869095c0fc5",
+    "artist": "Gunna",
+    "genres": [
+      "atl hip hop",
+      "melodic rap",
+      "rap",
+      "trap"
+    ],
+    "price": 1799,
+    "tracks": [
+      {
+        "name": "collage",
+        "duration_ms": 147720
+      },
+      {
+        "name": "one of wun",
+        "duration_ms": 144000
+      },
+      {
+        "name": "neck on a yacht",
+        "duration_ms": 155080
+      },
+      {
+        "name": "whatsapp (wassam)",
+        "duration_ms": 148240
+      },
+      {
+        "name": "hakuna matata",
+        "duration_ms": 127853
+      },
+      {
+        "name": "prada dem (feat. Offset)",
+        "duration_ms": 165346
+      },
+      {
+        "name": "treesh",
+        "duration_ms": 132946
+      },
+      {
+        "name": "on one tonight",
+        "duration_ms": 90760
+      },
+      {
+        "name": "back in the a",
+        "duration_ms": 173226
+      },
+      {
+        "name": "trio",
+        "duration_ms": 116360
+      },
+      {
+        "name": "still prevail",
+        "duration_ms": 192000
+      },
+      {
+        "name": "blackjack",
+        "duration_ms": 204386
+      },
+      {
+        "name": "$$$ (feat. Normani)",
+        "duration_ms": 181613
+      },
+      {
+        "name": "clear my rain (feat. Leon Bridges)",
+        "duration_ms": 183346
+      },
+      {
+        "name": "conscience",
+        "duration_ms": 143120
+      },
+      {
+        "name": "the time",
+        "duration_ms": 171200
+      },
+      {
+        "name": "let it breathe (feat. Roddy Ricch)",
+        "duration_ms": 200786
+      },
+      {
+        "name": "life\u2019s changing",
+        "duration_ms": 189253
+      },
+      {
+        "name": "today i did good",
+        "duration_ms": 173786
+      },
+      {
+        "name": "time reveals, be careful what you wish for",
+        "duration_ms": 395186
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Fireworks & Rollerblades",
+    "num_tracks": 15,
+    "release_date": "2024-04-05",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40",
+    "artist": "Benson Boone",
+    "genres": [
+      "singer-songwriter pop"
+    ],
+    "price": 1299,
+    "tracks": [
+      {
+        "name": "Intro",
+        "duration_ms": 62287
+      },
+      {
+        "name": "Be Someone",
+        "duration_ms": 224862
+      },
+      {
+        "name": "Slow It Down",
+        "duration_ms": 161831
+      },
+      {
+        "name": "Beautiful Things",
+        "duration_ms": 180304
+      },
+      {
+        "name": "Cry",
+        "duration_ms": 186359
+      },
+      {
+        "name": "Forever and a Day",
+        "duration_ms": 225234
+      },
+      {
+        "name": "In The Stars",
+        "duration_ms": 216410
+      },
+      {
+        "name": "Drunk In My Mind",
+        "duration_ms": 227569
+      },
+      {
+        "name": "My Greatest Fear",
+        "duration_ms": 213006
+      },
+      {
+        "name": "There She Goes",
+        "duration_ms": 204035
+      },
+      {
+        "name": "Hello Love",
+        "duration_ms": 208420
+      },
+      {
+        "name": "Ghost Town",
+        "duration_ms": 193733
+      },
+      {
+        "name": "Love Of Mine",
+        "duration_ms": 202807
+      },
+      {
+        "name": "Friend",
+        "duration_ms": 190359
+      },
+      {
+        "name": "What Do You Want",
+        "duration_ms": 258832
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Seductive",
+    "num_tracks": 29,
+    "release_date": "2024-02-22",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d811db49fcc425d11b713498",
+    "artist": "Luciano",
+    "genres": [
+      "german drill",
+      "german hip hop"
+    ],
+    "price": 2599,
+    "tracks": [
+      {
+        "name": "Intro",
+        "duration_ms": 118093
+      },
+      {
+        "name": "Intro II",
+        "duration_ms": 91786
+      },
+      {
+        "name": "Time",
+        "duration_ms": 206293
+      },
+      {
+        "name": "DTMS",
+        "duration_ms": 108573
+      },
+      {
+        "name": "Another Vibe (feat. Omah Lay)",
+        "duration_ms": 163013
+      },
+      {
+        "name": "What Happened",
+        "duration_ms": 147973
+      },
+      {
+        "name": "Soldier (feat. Aitch)",
+        "duration_ms": 176013
+      },
+      {
+        "name": "Young And Dangerous",
+        "duration_ms": 114253
+      },
+      {
+        "name": "Love You More (feat. Nemzzz)",
+        "duration_ms": 149720
+      },
+      {
+        "name": "Mami (feat. BIA)",
+        "duration_ms": 178546
+      },
+      {
+        "name": "Beverly Hills Freestyle",
+        "duration_ms": 110826
+      },
+      {
+        "name": "Cold Princess",
+        "duration_ms": 153746
+      },
+      {
+        "name": "Blue Porsche (feat. Niska)",
+        "duration_ms": 186626
+      },
+      {
+        "name": "Facts",
+        "duration_ms": 131680
+      },
+      {
+        "name": "Bracelet Van Cleef",
+        "duration_ms": 192506
+      },
+      {
+        "name": "Risk (feat. UZI & Sfera Ebbasta)",
+        "duration_ms": 191133
+      },
+      {
+        "name": "We Too Deep",
+        "duration_ms": 142320
+      },
+      {
+        "name": "All I Need",
+        "duration_ms": 187786
+      },
+      {
+        "name": "Bars Afrique (feat. Stefflon Don & HoodBlaq)",
+        "duration_ms": 178480
+      },
+      {
+        "name": "Familia (feat. Morad)",
+        "duration_ms": 173626
+      },
+      {
+        "name": "Big Dream",
+        "duration_ms": 228186
+      },
+      {
+        "name": "2 Germans (feat. Gzuz)",
+        "duration_ms": 149600
+      },
+      {
+        "name": "Darling",
+        "duration_ms": 151600
+      },
+      {
+        "name": "Seductive - Skit",
+        "duration_ms": 64146
+      },
+      {
+        "name": "Kinder der Streets (feat. RAF Camora)",
+        "duration_ms": 209000
+      },
+      {
+        "name": "Al-Fayed",
+        "duration_ms": 102333
+      },
+      {
+        "name": "The One",
+        "duration_ms": 160813
+      },
+      {
+        "name": "Love Ya (feat. Mario)",
+        "duration_ms": 217332
+      },
+      {
+        "name": "Outro",
+        "duration_ms": 130026
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Glas",
+    "num_tracks": 18,
+    "release_date": "2023-02-24",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2739ac00fcabc982b2e03987247",
+    "artist": "Nina Chuba",
+    "genres": [
+      "german pop",
+      "hamburg hip hop"
+    ],
+    "price": 1599,
+    "tracks": [
+      {
+        "name": "Mangos mit Chili",
+        "duration_ms": 134887
+      },
+      {
+        "name": "Wildberry Lillet",
+        "duration_ms": 131999
+      },
+      {
+        "name": "Alte Bilder",
+        "duration_ms": 130052
+      },
+      {
+        "name": "Mondlicht",
+        "duration_ms": 219887
+      },
+      {
+        "name": "Neben mir",
+        "duration_ms": 165990
+      },
+      {
+        "name": "Fieber",
+        "duration_ms": 137967
+      },
+      {
+        "name": "Glatteis",
+        "duration_ms": 202709
+      },
+      {
+        "name": "Sakura",
+        "duration_ms": 186833
+      },
+      {
+        "name": "Ich glaub ich will heut nicht mehr gehen",
+        "duration_ms": 175554
+      },
+      {
+        "name": "Femminello",
+        "duration_ms": 152215
+      },
+      {
+        "name": "Solo",
+        "duration_ms": 157135
+      },
+      {
+        "name": "Freitag",
+        "duration_ms": 128655
+      },
+      {
+        "name": "Tracksuit Velours",
+        "duration_ms": 150436
+      },
+      {
+        "name": "Lights out",
+        "duration_ms": 154653
+      },
+      {
+        "name": "Glas",
+        "duration_ms": 162493
+      },
+      {
+        "name": "Ich hass dich",
+        "duration_ms": 192835
+      },
+      {
+        "name": "Tinnitus",
+        "duration_ms": 182602
+      },
+      {
+        "name": "Alles gleich",
+        "duration_ms": 173565
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Schwarzes Herz",
+    "num_tracks": 19,
+    "release_date": "2023-08-25",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2736305e51741ae5f4acda89fe2",
+    "artist": "AYLIVA",
+    "genres": [
+      "german pop"
+    ],
+    "price": 1699,
+    "tracks": [
+      {
+        "name": "Aber sie",
+        "duration_ms": 171769
+      },
+      {
+        "name": "In deinen Armen",
+        "duration_ms": 141318
+      },
+      {
+        "name": "Mein Kopf ist leer",
+        "duration_ms": 147530
+      },
+      {
+        "name": "Scheine z\u00e4hlen",
+        "duration_ms": 167946
+      },
+      {
+        "name": "Schwer zu lieben",
+        "duration_ms": 157826
+      },
+      {
+        "name": "Lass mich gehen",
+        "duration_ms": 157160
+      },
+      {
+        "name": "Kal Yanimda",
+        "duration_ms": 152053
+      },
+      {
+        "name": "Mir geht's gut :):",
+        "duration_ms": 167960
+      },
+      {
+        "name": "Wei\u00dfes Haus",
+        "duration_ms": 168146
+      },
+      {
+        "name": "Bei mir",
+        "duration_ms": 162240
+      },
+      {
+        "name": "\u00dcberlebt (Skit)",
+        "duration_ms": 49693
+      },
+      {
+        "name": "Ella",
+        "duration_ms": 211170
+      },
+      {
+        "name": "Hold Up",
+        "duration_ms": 141866
+      },
+      {
+        "name": "Sie wei\u00df (feat. Mero)",
+        "duration_ms": 151319
+      },
+      {
+        "name": "Burlesque",
+        "duration_ms": 142866
+      },
+      {
+        "name": "Was mir gef\u00e4llt",
+        "duration_ms": 138207
+      },
+      {
+        "name": "Pills Pills Pills",
+        "duration_ms": 172986
+      },
+      {
+        "name": "H\u00e4sslich",
+        "duration_ms": 136360
+      },
+      {
+        "name": "Schwarzes Herz",
+        "duration_ms": 142946
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "WE DON'T TRUST YOU",
+    "num_tracks": 17,
+    "release_date": "2024-03-22",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273a46b07c291e6dfdee13b3ee8",
+    "artist": "Future",
+    "genres": [
+      "atl hip hop",
+      "hip hop",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ],
+    "price": 1499,
+    "tracks": [
+      {
+        "name": "We Don't Trust You",
+        "duration_ms": 226213
+      },
+      {
+        "name": "Young Metro",
+        "duration_ms": 205346
+      },
+      {
+        "name": "Ice Attack",
+        "duration_ms": 199253
+      },
+      {
+        "name": "Type Shit",
+        "duration_ms": 228266
+      },
+      {
+        "name": "Claustrophobic",
+        "duration_ms": 222053
+      },
+      {
+        "name": "Like That",
+        "duration_ms": 267706
+      },
+      {
+        "name": "Slimed In",
+        "duration_ms": 194906
+      },
+      {
+        "name": "Magic Don Juan (Princess Diana)",
+        "duration_ms": 220733
+      },
+      {
+        "name": "Cinderella",
+        "duration_ms": 169840
+      },
+      {
+        "name": "Runnin Outta Time",
+        "duration_ms": 205480
+      },
+      {
+        "name": "Fried (She a Vibe)",
+        "duration_ms": 210173
+      },
+      {
+        "name": "Ain't No Love",
+        "duration_ms": 182840
+      },
+      {
+        "name": "Everyday Hustle",
+        "duration_ms": 226946
+      },
+      {
+        "name": "GTA",
+        "duration_ms": 233026
+      },
+      {
+        "name": "Seen it All",
+        "duration_ms": 179440
+      },
+      {
+        "name": "WTFYM",
+        "duration_ms": 292600
+      },
+      {
+        "name": "Where My Twin @ - Bonus",
+        "duration_ms": 122786
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "denk mal dr\u00fcber nach...",
+    "num_tracks": 14,
+    "release_date": "2023-10-12",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2731a3804c279594ebceecec4a2",
+    "artist": "Ski Aggu",
+    "genres": [
+      "german hip hop"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "nicht nachmachen!!",
+        "duration_ms": 149799
+      },
+      {
+        "name": "Broker",
+        "duration_ms": 150877
+      },
+      {
+        "name": "MAXIMUM RIZZ",
+        "duration_ms": 147960
+      },
+      {
+        "name": "mietfrei",
+        "duration_ms": 141026
+      },
+      {
+        "name": "gensehaut",
+        "duration_ms": 135883
+      },
+      {
+        "name": "justin bieber\u2122",
+        "duration_ms": 95440
+      },
+      {
+        "name": "shu madame",
+        "duration_ms": 117800
+      },
+      {
+        "name": "angefickst\u30c4",
+        "duration_ms": 124353
+      },
+      {
+        "name": "negativer rizz",
+        "duration_ms": 95334
+      },
+      {
+        "name": "vodka soda \u00b2\u00b0\u00b2\u00b2",
+        "duration_ms": 152881
+      },
+      {
+        "name": "Theater\u2605",
+        "duration_ms": 155670
+      },
+      {
+        "name": "KAPPIES IM SLIP",
+        "duration_ms": 165577
+      },
+      {
+        "name": "Friesenjung",
+        "duration_ms": 146086
+      },
+      {
+        "name": "Mandala",
+        "duration_ms": 121630
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Raop",
+    "num_tracks": 13,
+    "release_date": "2012-07-06",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27397c097afa44e5cdb38a03d4f",
+    "artist": "CRO",
+    "genres": [
+      "german hip hop"
+    ],
+    "price": 1099,
+    "tracks": [
+      {
+        "name": "Intro",
+        "duration_ms": 166916
+      },
+      {
+        "name": "King of Raop",
+        "duration_ms": 189127
+      },
+      {
+        "name": "Easy",
+        "duration_ms": 172208
+      },
+      {
+        "name": "Geile Welt",
+        "duration_ms": 170088
+      },
+      {
+        "name": "Du",
+        "duration_ms": 174873
+      },
+      {
+        "name": "Wie ich bin",
+        "duration_ms": 191193
+      },
+      {
+        "name": "Meine Zeit",
+        "duration_ms": 187274
+      },
+      {
+        "name": "Nie Mehr",
+        "duration_ms": 183974
+      },
+      {
+        "name": "Jeder Tag",
+        "duration_ms": 176000
+      },
+      {
+        "name": "Genau So",
+        "duration_ms": 204996
+      },
+      {
+        "name": "Einmal um die Welt",
+        "duration_ms": 142462
+      },
+      {
+        "name": "Wir waren hier",
+        "duration_ms": 144807
+      },
+      {
+        "name": "Ein Teil",
+        "duration_ms": 175480
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "NINETYNINE",
+    "num_tracks": 18,
+    "release_date": "2024-01-12",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d0d9cb06513819a6a697894e",
+    "artist": "Jazeek",
+    "genres": [
+      "german hip hop"
+    ],
+    "price": 1599,
+    "tracks": [
+      {
+        "name": "Noch einmal",
+        "duration_ms": 146526
+      },
+      {
+        "name": "Like \u00dc",
+        "duration_ms": 168275
+      },
+      {
+        "name": "Nikotin",
+        "duration_ms": 157125
+      },
+      {
+        "name": "Real G",
+        "duration_ms": 150857
+      },
+      {
+        "name": "F\u00fchlst du",
+        "duration_ms": 135483
+      },
+      {
+        "name": "Wieder mal",
+        "duration_ms": 175200
+      },
+      {
+        "name": "112",
+        "duration_ms": 146808
+      },
+      {
+        "name": "Rufe dich an",
+        "duration_ms": 160000
+      },
+      {
+        "name": "Warum bin ich so",
+        "duration_ms": 149535
+      },
+      {
+        "name": "Racks on me",
+        "duration_ms": 127386
+      },
+      {
+        "name": "Superstars",
+        "duration_ms": 139234
+      },
+      {
+        "name": "Ok Ok",
+        "duration_ms": 138220
+      },
+      {
+        "name": "Ms Germany",
+        "duration_ms": 171764
+      },
+      {
+        "name": "Round and Round",
+        "duration_ms": 139591
+      },
+      {
+        "name": "F\u00fcr dich",
+        "duration_ms": 157959
+      },
+      {
+        "name": "Baile Funk im Blut",
+        "duration_ms": 180468
+      },
+      {
+        "name": "L\u00fcg mich an",
+        "duration_ms": 164000
+      },
+      {
+        "name": "Take it",
+        "duration_ms": 172105
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Radical Optimism",
+    "num_tracks": 11,
+    "release_date": "2024-05-03",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273361debc2873b3aa493304b6d",
+    "artist": "Dua Lipa",
+    "genres": [
+      "dance pop",
+      "pop",
+      "uk pop"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "End Of An Era",
+        "duration_ms": 196218
+      },
+      {
+        "name": "Houdini",
+        "duration_ms": 185917
+      },
+      {
+        "name": "Training Season",
+        "duration_ms": 209487
+      },
+      {
+        "name": "These Walls",
+        "duration_ms": 217783
+      },
+      {
+        "name": "Whatcha Doing",
+        "duration_ms": 198198
+      },
+      {
+        "name": "French Exit",
+        "duration_ms": 201286
+      },
+      {
+        "name": "Illusion",
+        "duration_ms": 188143
+      },
+      {
+        "name": "Falling Forever",
+        "duration_ms": 223095
+      },
+      {
+        "name": "Anything For Love",
+        "duration_ms": 141783
+      },
+      {
+        "name": "Maria",
+        "duration_ms": 187682
+      },
+      {
+        "name": "Happy For You",
+        "duration_ms": 245680
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Regenger\u00e4usche zum Entspannung",
+    "num_tracks": 60,
+    "release_date": "2019-02-18",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2730b58803d87d6806840fbd593",
+    "artist": "Schlafmusik",
+    "genres": [],
+    "price": 5399,
+    "tracks": [
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 01",
+        "duration_ms": 81734
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 02",
+        "duration_ms": 105512
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 03",
+        "duration_ms": 84717
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 04",
+        "duration_ms": 118132
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 05",
+        "duration_ms": 98451
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 06",
+        "duration_ms": 105883
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 07",
+        "duration_ms": 90650
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 08",
+        "duration_ms": 122601
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 09",
+        "duration_ms": 97337
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 10",
+        "duration_ms": 103282
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 11",
+        "duration_ms": 85448
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 12",
+        "duration_ms": 96967
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 13",
+        "duration_ms": 110340
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 14",
+        "duration_ms": 88422
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 15",
+        "duration_ms": 104396
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 16",
+        "duration_ms": 83963
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 17",
+        "duration_ms": 91393
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 18",
+        "duration_ms": 115542
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 19",
+        "duration_ms": 89165
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 20",
+        "duration_ms": 95479
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 21",
+        "duration_ms": 100032
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 22",
+        "duration_ms": 93158
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 23",
+        "duration_ms": 116284
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 24",
+        "duration_ms": 102725
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 25",
+        "duration_ms": 87121
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 26",
+        "duration_ms": 125944
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 27",
+        "duration_ms": 92694
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 28",
+        "duration_ms": 107183
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 29",
+        "duration_ms": 94365
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 30",
+        "duration_ms": 117864
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 31",
+        "duration_ms": 82477
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 32",
+        "duration_ms": 119908
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 33",
+        "duration_ms": 101424
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 34",
+        "duration_ms": 86471
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 35",
+        "duration_ms": 113962
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 36",
+        "duration_ms": 99009
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 37",
+        "duration_ms": 80248
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 38",
+        "duration_ms": 114799
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 39",
+        "duration_ms": 106812
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 40",
+        "duration_ms": 93808
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 41",
+        "duration_ms": 111455
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 42",
+        "duration_ms": 90651
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 43",
+        "duration_ms": 102167
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 44",
+        "duration_ms": 84520
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 45",
+        "duration_ms": 121301
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 46",
+        "duration_ms": 95479
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 47",
+        "duration_ms": 109970
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 48",
+        "duration_ms": 97338
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 49",
+        "duration_ms": 120711
+      },
+      {
+        "name": "Regenger\u00e4usche Zum Entspannung - Teil 50",
+        "duration_ms": 87710
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "COWBOY CARTER",
+    "num_tracks": 27,
+    "release_date": "2024-03-29",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2731572698fff8a1db257a53599",
+    "artist": "Beyonc\u00e9",
+    "genres": [
+      "pop",
+      "r&b"
+    ],
+    "price": 2399,
+    "tracks": [
+      {
+        "name": "AMERIICAN REQUIEM",
+        "duration_ms": 325037
+      },
+      {
+        "name": "BLACKBIIRD",
+        "duration_ms": 131949
+      },
+      {
+        "name": "16 CARRIAGES",
+        "duration_ms": 227250
+      },
+      {
+        "name": "PROTECTOR",
+        "duration_ms": 184399
+      },
+      {
+        "name": "MY ROSE",
+        "duration_ms": 53442
+      },
+      {
+        "name": "SMOKE HOUR \u2605 WILLIE NELSON",
+        "duration_ms": 50721
+      },
+      {
+        "name": "TEXAS HOLD 'EM",
+        "duration_ms": 233456
+      },
+      {
+        "name": "BODYGUARD",
+        "duration_ms": 240254
+      },
+      {
+        "name": "DOLLY P",
+        "duration_ms": 22623
+      },
+      {
+        "name": "JOLENE",
+        "duration_ms": 189638
+      },
+      {
+        "name": "DAUGHTER",
+        "duration_ms": 203851
+      },
+      {
+        "name": "SPAGHETTII",
+        "duration_ms": 158477
+      },
+      {
+        "name": "ALLIIGATOR TEARS",
+        "duration_ms": 179397
+      },
+      {
+        "name": "SMOKE HOUR II",
+        "duration_ms": 29843
+      },
+      {
+        "name": "JUST FOR FUN",
+        "duration_ms": 204487
+      },
+      {
+        "name": "II MOST WANTED",
+        "duration_ms": 208521
+      },
+      {
+        "name": "LEVII'S JEANS",
+        "duration_ms": 257699
+      },
+      {
+        "name": "FLAMENCO",
+        "duration_ms": 100364
+      },
+      {
+        "name": "THE LINDA MARTELL SHOW",
+        "duration_ms": 28069
+      },
+      {
+        "name": "YA YA",
+        "duration_ms": 274766
+      },
+      {
+        "name": "OH LOUISIANA",
+        "duration_ms": 52195
+      },
+      {
+        "name": "DESERT EAGLE",
+        "duration_ms": 72448
+      },
+      {
+        "name": "RIIVERDANCE",
+        "duration_ms": 251986
+      },
+      {
+        "name": "II HANDS II HEAVEN",
+        "duration_ms": 341312
+      },
+      {
+        "name": "TYRANT",
+        "duration_ms": 250725
+      },
+      {
+        "name": "SWEET \u2605 HONEY \u2605 BUCKIIN'",
+        "duration_ms": 296185
+      },
+      {
+        "name": "AMEN",
+        "duration_ms": 145105
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Unreal Unearth: Unheard",
+    "num_tracks": 20,
+    "release_date": "2024-03-22",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2733e1b212546dac35443735241",
+    "artist": "Hozier",
+    "genres": [
+      "irish singer-songwriter",
+      "modern rock",
+      "pov: indie"
+    ],
+    "price": 1799,
+    "tracks": [
+      {
+        "name": "Too Sweet",
+        "duration_ms": 251424
+      },
+      {
+        "name": "Wildflower and Barley",
+        "duration_ms": 222177
+      },
+      {
+        "name": "Empire Now",
+        "duration_ms": 178196
+      },
+      {
+        "name": "Fare Well",
+        "duration_ms": 188454
+      },
+      {
+        "name": "De Selby (Part 1)",
+        "duration_ms": 219693
+      },
+      {
+        "name": "De Selby (Part 2)",
+        "duration_ms": 227826
+      },
+      {
+        "name": "First Time",
+        "duration_ms": 233173
+      },
+      {
+        "name": "Francesca",
+        "duration_ms": 270066
+      },
+      {
+        "name": "I, Carrion (Icarian)",
+        "duration_ms": 196613
+      },
+      {
+        "name": "Eat Your Young",
+        "duration_ms": 243946
+      },
+      {
+        "name": "Damage Gets Done",
+        "duration_ms": 268653
+      },
+      {
+        "name": "Who We Are",
+        "duration_ms": 245666
+      },
+      {
+        "name": "Son of Nyx",
+        "duration_ms": 199013
+      },
+      {
+        "name": "All Things End",
+        "duration_ms": 216693
+      },
+      {
+        "name": "To Someone From A Warm Climate (Uiscefhuaraithe)",
+        "duration_ms": 240773
+      },
+      {
+        "name": "Butchered Tongue",
+        "duration_ms": 149880
+      },
+      {
+        "name": "Anything But",
+        "duration_ms": 225333
+      },
+      {
+        "name": "Abstract (Psychopomp)",
+        "duration_ms": 244120
+      },
+      {
+        "name": "Unknown / Nth",
+        "duration_ms": 280106
+      },
+      {
+        "name": "First Light",
+        "duration_ms": 292080
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "THINK LATER",
+    "num_tracks": 14,
+    "release_date": "2023-12-08",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27377eb7a5b9367de79c3b92a49",
+    "artist": "Tate McRae",
+    "genres": [
+      "pop"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "cut my hair",
+        "duration_ms": 175665
+      },
+      {
+        "name": "greedy",
+        "duration_ms": 129686
+      },
+      {
+        "name": "run for the hills",
+        "duration_ms": 143940
+      },
+      {
+        "name": "hurt my feelings",
+        "duration_ms": 122416
+      },
+      {
+        "name": "grave",
+        "duration_ms": 193159
+      },
+      {
+        "name": "stay done",
+        "duration_ms": 171190
+      },
+      {
+        "name": "exes",
+        "duration_ms": 159400
+      },
+      {
+        "name": "we're not alike",
+        "duration_ms": 180392
+      },
+      {
+        "name": "calgary",
+        "duration_ms": 140685
+      },
+      {
+        "name": "messier",
+        "duration_ms": 237191
+      },
+      {
+        "name": "think later",
+        "duration_ms": 133562
+      },
+      {
+        "name": "guilty conscience",
+        "duration_ms": 152049
+      },
+      {
+        "name": "want that too",
+        "duration_ms": 190059
+      },
+      {
+        "name": "plastic palm trees",
+        "duration_ms": 172780
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "I've Tried Everything But Therapy (Part 1)",
+    "num_tracks": 10,
+    "release_date": "2023-09-15",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2731a0323cc23419360a34a3ace",
+    "artist": "Teddy Swims",
+    "genres": [],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "Some Things I'll Never Know",
+        "duration_ms": 242317
+      },
+      {
+        "name": "Lose Control",
+        "duration_ms": 210688
+      },
+      {
+        "name": "What More Can I Say",
+        "duration_ms": 141141
+      },
+      {
+        "name": "The Door",
+        "duration_ms": 212648
+      },
+      {
+        "name": "Goodbye's Been Good to You",
+        "duration_ms": 164634
+      },
+      {
+        "name": "Last Communion",
+        "duration_ms": 217469
+      },
+      {
+        "name": "You Still Get to Me",
+        "duration_ms": 208339
+      },
+      {
+        "name": "Suitcase",
+        "duration_ms": 168832
+      },
+      {
+        "name": "Flame",
+        "duration_ms": 144660
+      },
+      {
+        "name": "Evergreen",
+        "duration_ms": 166348
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "HEROES & VILLAINS",
+    "num_tracks": 15,
+    "release_date": "2022-12-02",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+    "artist": "Metro Boomin",
+    "genres": [
+      "rap"
+    ],
+    "price": 1299,
+    "tracks": [
+      {
+        "name": "On Time (with John Legend)",
+        "duration_ms": 168920
+      },
+      {
+        "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+        "duration_ms": 182666
+      },
+      {
+        "name": "Too Many Nights (feat. Don Toliver & with Future)",
+        "duration_ms": 199920
+      },
+      {
+        "name": "Raindrops (Insane) [with Travis Scott]",
+        "duration_ms": 188586
+      },
+      {
+        "name": "Umbrella (with 21 Savage & Young Nudy)",
+        "duration_ms": 222000
+      },
+      {
+        "name": "Trance (with Travis Scott & Young Thug)",
+        "duration_ms": 194786
+      },
+      {
+        "name": "Around Me (feat. Don Toliver)",
+        "duration_ms": 191520
+      },
+      {
+        "name": "Metro Spider (with Young Thug)",
+        "duration_ms": 174560
+      },
+      {
+        "name": "I Can't Save You (Interlude) [with Future & feat. Don Toliver]",
+        "duration_ms": 90720
+      },
+      {
+        "name": "Creepin' (with The Weeknd & 21 Savage)",
+        "duration_ms": 221520
+      },
+      {
+        "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+        "duration_ms": 207306
+      },
+      {
+        "name": "Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa]",
+        "duration_ms": 310960
+      },
+      {
+        "name": "Lock On Me (with Travis Scott & Future)",
+        "duration_ms": 174706
+      },
+      {
+        "name": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
+        "duration_ms": 189426
+      },
+      {
+        "name": "All The Money (with Gunna) [Bonus]",
+        "duration_ms": 167400
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "All Stand Together",
+    "num_tracks": 12,
+    "release_date": "2023-11-10",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273580da30167c82db5fcc5f798",
+    "artist": "Lost Frequencies",
+    "genres": [
+      "belgian edm",
+      "edm",
+      "pop dance",
+      "tropical house"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "No Limit",
+        "duration_ms": 196746
+      },
+      {
+        "name": "All Stand Together",
+        "duration_ms": 195480
+      },
+      {
+        "name": "Dive",
+        "duration_ms": 161093
+      },
+      {
+        "name": "Head Down",
+        "duration_ms": 173888
+      },
+      {
+        "name": "Back To You",
+        "duration_ms": 156546
+      },
+      {
+        "name": "The Feeling",
+        "duration_ms": 154386
+      },
+      {
+        "name": "Leave You In The Past",
+        "duration_ms": 164253
+      },
+      {
+        "name": "Just Wanna Know",
+        "duration_ms": 188680
+      },
+      {
+        "name": "Where Are You Now",
+        "duration_ms": 149066
+      },
+      {
+        "name": "Questions",
+        "duration_ms": 177813
+      },
+      {
+        "name": "Gone",
+        "duration_ms": 201813
+      },
+      {
+        "name": "Fall At Your Feet",
+        "duration_ms": 396346
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "XV RR Edition",
+    "num_tracks": 27,
+    "release_date": "2023-09-08",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273485bb64f025af56e37618141",
+    "artist": "RAF Camora",
+    "genres": [
+      "german hip hop"
+    ],
+    "price": 2399,
+    "tracks": [
+      {
+        "name": "Intro",
+        "duration_ms": 145193
+      },
+      {
+        "name": "Matrix",
+        "duration_ms": 133435
+      },
+      {
+        "name": "All Night",
+        "duration_ms": 153669
+      },
+      {
+        "name": "Kein Kontakt",
+        "duration_ms": 126192
+      },
+      {
+        "name": "Weit weg",
+        "duration_ms": 152438
+      },
+      {
+        "name": "ANNA",
+        "duration_ms": 144199
+      },
+      {
+        "name": "Wien",
+        "duration_ms": 183414
+      },
+      {
+        "name": "Strada",
+        "duration_ms": 144400
+      },
+      {
+        "name": "V Palms",
+        "duration_ms": 147977
+      },
+      {
+        "name": "Bei Nacht",
+        "duration_ms": 156882
+      },
+      {
+        "name": "Tr\u00e4nen",
+        "duration_ms": 191109
+      },
+      {
+        "name": "Finito",
+        "duration_ms": 127241
+      },
+      {
+        "name": "Toyota",
+        "duration_ms": 175241
+      },
+      {
+        "name": "Cagoule",
+        "duration_ms": 186399
+      },
+      {
+        "name": "Gotham",
+        "duration_ms": 158422
+      },
+      {
+        "name": "Intro",
+        "duration_ms": 148435
+      },
+      {
+        "name": "Ich zahl",
+        "duration_ms": 150759
+      },
+      {
+        "name": "Tropicana",
+        "duration_ms": 132546
+      },
+      {
+        "name": "Toxisch",
+        "duration_ms": 157654
+      },
+      {
+        "name": "Frei",
+        "duration_ms": 147892
+      },
+      {
+        "name": "Die Street",
+        "duration_ms": 135545
+      },
+      {
+        "name": "Calle",
+        "duration_ms": 160870
+      },
+      {
+        "name": "Model",
+        "duration_ms": 145659
+      },
+      {
+        "name": "Gebete",
+        "duration_ms": 155062
+      },
+      {
+        "name": "Game",
+        "duration_ms": 169342
+      },
+      {
+        "name": "C.R. - Exclusive",
+        "duration_ms": 183292
+      },
+      {
+        "name": "Liebe Gr\u00fcsse",
+        "duration_ms": 136988
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Die Hoffnung klaut mir Niemand",
+    "num_tracks": 19,
+    "release_date": "2023-11-09",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2736e80215d1e0d5efe3ccb3572",
+    "artist": "Kontra K",
+    "genres": [
+      "german hip hop",
+      "german pop"
+    ],
+    "price": 1699,
+    "tracks": [
+      {
+        "name": "Kopf Gef*** (Intro)",
+        "duration_ms": 178693
+      },
+      {
+        "name": "Monster",
+        "duration_ms": 170600
+      },
+      {
+        "name": "Von Anfang",
+        "duration_ms": 178080
+      },
+      {
+        "name": "Was Echtes",
+        "duration_ms": 163680
+      },
+      {
+        "name": "Ein Schritt",
+        "duration_ms": 152720
+      },
+      {
+        "name": "Lass Mal Sehen",
+        "duration_ms": 141389
+      },
+      {
+        "name": "Energie",
+        "duration_ms": 155106
+      },
+      {
+        "name": "Ich Seh Dich",
+        "duration_ms": 178453
+      },
+      {
+        "name": "Like Woo",
+        "duration_ms": 147066
+      },
+      {
+        "name": "Summertime",
+        "duration_ms": 195600
+      },
+      {
+        "name": "Wenn Tr\u00e4ume Bluten",
+        "duration_ms": 187253
+      },
+      {
+        "name": "Weiche Kissen",
+        "duration_ms": 180173
+      },
+      {
+        "name": "Der Letzte Tag",
+        "duration_ms": 173186
+      },
+      {
+        "name": "Narben",
+        "duration_ms": 165906
+      },
+      {
+        "name": "Geliebt",
+        "duration_ms": 176333
+      },
+      {
+        "name": "Mann, Max",
+        "duration_ms": 193986
+      },
+      {
+        "name": "L\u00fcge",
+        "duration_ms": 155186
+      },
+      {
+        "name": "Dein Schatten",
+        "duration_ms": 196560
+      },
+      {
+        "name": "Die Sonne",
+        "duration_ms": 174026
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Altbau",
+    "num_tracks": 13,
+    "release_date": "2022-03-25",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27302a51d326fec04165386738f",
+    "artist": "01099",
+    "genres": [
+      "german hip hop"
+    ],
+    "price": 1099,
+    "tracks": [
+      {
+        "name": "Sportlich",
+        "duration_ms": 176573
+      },
+      {
+        "name": "Gl\u00fccklich",
+        "duration_ms": 143160
+      },
+      {
+        "name": "Altbau",
+        "duration_ms": 139493
+      },
+      {
+        "name": "Regen",
+        "duration_ms": 159800
+      },
+      {
+        "name": "2000er",
+        "duration_ms": 183573
+      },
+      {
+        "name": "Vespa",
+        "duration_ms": 135768
+      },
+      {
+        "name": "Schnelle Brille",
+        "duration_ms": 138040
+      },
+      {
+        "name": "Dies & Das",
+        "duration_ms": 140466
+      },
+      {
+        "name": "Kecks",
+        "duration_ms": 143373
+      },
+      {
+        "name": "Jacke Zu",
+        "duration_ms": 154000
+      },
+      {
+        "name": "Vertr\u00e4umt",
+        "duration_ms": 179924
+      },
+      {
+        "name": "Kreta 3.0",
+        "duration_ms": 160755
+      },
+      {
+        "name": "nullzehnneunundneunzig ist die family",
+        "duration_ms": 142186
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "eternal sunshine",
+    "num_tracks": 13,
+    "release_date": "2024-03-08",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4",
+    "artist": "Ariana Grande",
+    "genres": [
+      "pop"
+    ],
+    "price": 1099,
+    "tracks": [
+      {
+        "name": "intro (end of the world)",
+        "duration_ms": 92400
+      },
+      {
+        "name": "bye",
+        "duration_ms": 164927
+      },
+      {
+        "name": "don't wanna break up again",
+        "duration_ms": 174006
+      },
+      {
+        "name": "Saturn Returns Interlude",
+        "duration_ms": 42166
+      },
+      {
+        "name": "eternal sunshine",
+        "duration_ms": 210200
+      },
+      {
+        "name": "supernatural",
+        "duration_ms": 163381
+      },
+      {
+        "name": "true story",
+        "duration_ms": 163278
+      },
+      {
+        "name": "the boy is mine",
+        "duration_ms": 173639
+      },
+      {
+        "name": "yes, and?",
+        "duration_ms": 214994
+      },
+      {
+        "name": "we can't be friends (wait for your love)",
+        "duration_ms": 228639
+      },
+      {
+        "name": "i wish i hated you",
+        "duration_ms": 153633
+      },
+      {
+        "name": "imperfect for you",
+        "duration_ms": 182566
+      },
+      {
+        "name": "ordinary things (feat. Nonna)",
+        "duration_ms": 168500
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Platte",
+    "num_tracks": 8,
+    "release_date": "2019-10-25",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2730e579f4157261d692293055a",
+    "artist": "Apache 207",
+    "genres": [
+      "german hip hop"
+    ],
+    "price": 799,
+    "tracks": [
+      {
+        "name": "Sex mit dir",
+        "duration_ms": 173200
+      },
+      {
+        "name": "Roller",
+        "duration_ms": 157093
+      },
+      {
+        "name": "Beef",
+        "duration_ms": 146880
+      },
+      {
+        "name": "200 km/h",
+        "duration_ms": 163146
+      },
+      {
+        "name": "Keine Fragen",
+        "duration_ms": 173826
+      },
+      {
+        "name": "Wieso tust Du dir das an?",
+        "duration_ms": 176066
+      },
+      {
+        "name": "Doch in der Nacht",
+        "duration_ms": 191760
+      },
+      {
+        "name": "Grey Goose",
+        "duration_ms": 166666
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "DRIVE",
+    "num_tracks": 12,
+    "release_date": "2023-04-21",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273cf8c47967e5c6bbc7dca5abb",
+    "artist": "Ti\u00ebsto",
+    "genres": [
+      "big room",
+      "brostep",
+      "dutch edm",
+      "edm",
+      "house",
+      "pop dance",
+      "progressive electro house",
+      "slap house",
+      "trance"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "All Nighter",
+        "duration_ms": 134880
+      },
+      {
+        "name": "The Motto",
+        "duration_ms": 164818
+      },
+      {
+        "name": "10:35",
+        "duration_ms": 172252
+      },
+      {
+        "name": "The Business",
+        "duration_ms": 164000
+      },
+      {
+        "name": "Chills (LA Hills)",
+        "duration_ms": 183652
+      },
+      {
+        "name": "Hot In It (feat. Charli XCX)",
+        "duration_ms": 129817
+      },
+      {
+        "name": "Pump It Louder",
+        "duration_ms": 158571
+      },
+      {
+        "name": "Learn 2 Love",
+        "duration_ms": 133003
+      },
+      {
+        "name": "Don't Be Shy",
+        "duration_ms": 140500
+      },
+      {
+        "name": "Bet My Dollar",
+        "duration_ms": 204000
+      },
+      {
+        "name": "Back Around",
+        "duration_ms": 175403
+      },
+      {
+        "name": "Lay Low",
+        "duration_ms": 153442
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Born To Die - The Paradise Edition",
+    "num_tracks": 23,
+    "release_date": "2012-01-01",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
+    "artist": "Lana Del Rey",
+    "genres": [
+      "art pop",
+      "pop"
+    ],
+    "price": 1999,
+    "tracks": [
+      {
+        "name": "Born To Die",
+        "duration_ms": 285400
+      },
+      {
+        "name": "Off To The Races",
+        "duration_ms": 299933
+      },
+      {
+        "name": "Blue Jeans",
+        "duration_ms": 209440
+      },
+      {
+        "name": "Video Games",
+        "duration_ms": 281960
+      },
+      {
+        "name": "Diet Mountain Dew",
+        "duration_ms": 222920
+      },
+      {
+        "name": "National Anthem",
+        "duration_ms": 230520
+      },
+      {
+        "name": "Dark Paradise",
+        "duration_ms": 243187
+      },
+      {
+        "name": "Radio",
+        "duration_ms": 214573
+      },
+      {
+        "name": "Carmen",
+        "duration_ms": 248720
+      },
+      {
+        "name": "Million Dollar Man",
+        "duration_ms": 231573
+      },
+      {
+        "name": "Summertime Sadness",
+        "duration_ms": 265427
+      },
+      {
+        "name": "This Is What Makes Us Girls",
+        "duration_ms": 238427
+      },
+      {
+        "name": "Without You",
+        "duration_ms": 229293
+      },
+      {
+        "name": "Lolita",
+        "duration_ms": 220040
+      },
+      {
+        "name": "Lucky Ones",
+        "duration_ms": 225069
+      },
+      {
+        "name": "Ride",
+        "duration_ms": 289080
+      },
+      {
+        "name": "American",
+        "duration_ms": 248907
+      },
+      {
+        "name": "Cola",
+        "duration_ms": 260893
+      },
+      {
+        "name": "Body Electric",
+        "duration_ms": 233440
+      },
+      {
+        "name": "Blue Velvet",
+        "duration_ms": 158653
+      },
+      {
+        "name": "Gods & Monsters",
+        "duration_ms": 237640
+      },
+      {
+        "name": "Yayo",
+        "duration_ms": 321053
+      },
+      {
+        "name": "Bel Air",
+        "duration_ms": 237640
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Lover",
+    "num_tracks": 18,
+    "release_date": "2019-08-23",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "artist": "Taylor Swift",
+    "genres": [
+      "pop"
+    ],
+    "price": 1599,
+    "tracks": [
+      {
+        "name": "I Forgot That You Existed",
+        "duration_ms": 170640
+      },
+      {
+        "name": "Cruel Summer",
+        "duration_ms": 178426
+      },
+      {
+        "name": "Lover",
+        "duration_ms": 221306
+      },
+      {
+        "name": "The Man",
+        "duration_ms": 190360
+      },
+      {
+        "name": "The Archer",
+        "duration_ms": 211240
+      },
+      {
+        "name": "I Think He Knows",
+        "duration_ms": 173386
+      },
+      {
+        "name": "Miss Americana & The Heartbreak Prince",
+        "duration_ms": 234146
+      },
+      {
+        "name": "Paper Rings",
+        "duration_ms": 222400
+      },
+      {
+        "name": "Cornelia Street",
+        "duration_ms": 287266
+      },
+      {
+        "name": "Death By A Thousand Cuts",
+        "duration_ms": 198533
+      },
+      {
+        "name": "London Boy",
+        "duration_ms": 190240
+      },
+      {
+        "name": "Soon You\u2019ll Get Better (feat. The Chicks)",
+        "duration_ms": 201586
+      },
+      {
+        "name": "False God",
+        "duration_ms": 200306
+      },
+      {
+        "name": "You Need To Calm Down",
+        "duration_ms": 171360
+      },
+      {
+        "name": "Afterglow",
+        "duration_ms": 223293
+      },
+      {
+        "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+        "duration_ms": 193000
+      },
+      {
+        "name": "It\u2019s Nice To Have A Friend",
+        "duration_ms": 150440
+      },
+      {
+        "name": "Daylight",
+        "duration_ms": 293453
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "ASTROWORLD",
+    "num_tracks": 17,
+    "release_date": "2018-08-03",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+    "artist": "Travis Scott",
+    "genres": [
+      "rap",
+      "slap house"
+    ],
+    "price": 1499,
+    "tracks": [
+      {
+        "name": "STARGAZING",
+        "duration_ms": 270714
+      },
+      {
+        "name": "CAROUSEL",
+        "duration_ms": 180182
+      },
+      {
+        "name": "SICKO MODE",
+        "duration_ms": 312820
+      },
+      {
+        "name": "R.I.P. SCREW",
+        "duration_ms": 185610
+      },
+      {
+        "name": "STOP TRYING TO BE GOD",
+        "duration_ms": 338438
+      },
+      {
+        "name": "NO BYSTANDERS",
+        "duration_ms": 218283
+      },
+      {
+        "name": "SKELETONS",
+        "duration_ms": 145588
+      },
+      {
+        "name": "WAKE UP",
+        "duration_ms": 231963
+      },
+      {
+        "name": "5% TINT",
+        "duration_ms": 196138
+      },
+      {
+        "name": "NC-17",
+        "duration_ms": 156885
+      },
+      {
+        "name": "ASTROTHUNDER",
+        "duration_ms": 142969
+      },
+      {
+        "name": "YOSEMITE",
+        "duration_ms": 150043
+      },
+      {
+        "name": "CAN'T SAY",
+        "duration_ms": 198408
+      },
+      {
+        "name": "WHO? WHAT!",
+        "duration_ms": 176720
+      },
+      {
+        "name": "BUTTERFLY EFFECT",
+        "duration_ms": 190557
+      },
+      {
+        "name": "HOUSTONFORNICATION",
+        "duration_ms": 217828
+      },
+      {
+        "name": "COFFEE BEAN",
+        "duration_ms": 209115
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Majestic",
+    "num_tracks": 20,
+    "release_date": "2022-09-29",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27348064ef6df8fad8a52219c32",
+    "artist": "Luciano",
+    "genres": [
+      "german drill",
+      "german hip hop"
+    ],
+    "price": 1799,
+    "tracks": [
+      {
+        "name": "Intro",
+        "duration_ms": 105680
+      },
+      {
+        "name": "West Connect (feat. Central Cee)",
+        "duration_ms": 212114
+      },
+      {
+        "name": "Beautiful Girl",
+        "duration_ms": 178453
+      },
+      {
+        "name": "Bamba (feat. Aitch & BIA)",
+        "duration_ms": 203560
+      },
+      {
+        "name": "Drill LUV",
+        "duration_ms": 175880
+      },
+      {
+        "name": "Everywhere (feat. Sophie Hunger)",
+        "duration_ms": 129493
+      },
+      {
+        "name": "SUVs",
+        "duration_ms": 162173
+      },
+      {
+        "name": "Magic",
+        "duration_ms": 158826
+      },
+      {
+        "name": "Blue Cheese (feat. KALIM)",
+        "duration_ms": 130199
+      },
+      {
+        "name": "Majestic",
+        "duration_ms": 205853
+      },
+      {
+        "name": "Passion (feat. Paula Hartmann)",
+        "duration_ms": 160226
+      },
+      {
+        "name": "Frozen Tears",
+        "duration_ms": 208173
+      },
+      {
+        "name": "Life Lessons (feat. Headie One)",
+        "duration_ms": 153573
+      },
+      {
+        "name": "Push It",
+        "duration_ms": 170226
+      },
+      {
+        "name": "Tattoos (feat. RAF Camora)",
+        "duration_ms": 139733
+      },
+      {
+        "name": "Bottega Glasses",
+        "duration_ms": 181706
+      },
+      {
+        "name": "Voyage Skit (feat. Gzuz)",
+        "duration_ms": 73706
+      },
+      {
+        "name": "Moonlight (feat. Gazo)",
+        "duration_ms": 137293
+      },
+      {
+        "name": "London (feat. Yung Hurn)",
+        "duration_ms": 167306
+      },
+      {
+        "name": "Sweet Dreams",
+        "duration_ms": 195146
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "I",
+    "num_tracks": 12,
+    "release_date": "2022-09-02",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2739433432ccc03bf5e6b7837d2",
+    "artist": "Ofenbach",
+    "genres": [
+      "pop dance"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "Love Me Now (feat. FAST BOY)",
+        "duration_ms": 152581
+      },
+      {
+        "name": "I Ain't Got No Worries (with R3HAB)",
+        "duration_ms": 146129
+      },
+      {
+        "name": "You Should Be With Me",
+        "duration_ms": 148879
+      },
+      {
+        "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
+        "duration_ms": 156960
+      },
+      {
+        "name": "Private (feat. Sam Gray)",
+        "duration_ms": 139494
+      },
+      {
+        "name": "Wasted Love (feat. Lagique)",
+        "duration_ms": 139563
+      },
+      {
+        "name": "Nobody Else",
+        "duration_ms": 141151
+      },
+      {
+        "name": "4U",
+        "duration_ms": 149717
+      },
+      {
+        "name": "Overthinking (feat. Dyo)",
+        "duration_ms": 143225
+      },
+      {
+        "name": "Hurricane",
+        "duration_ms": 147139
+      },
+      {
+        "name": "Remember My Love (feat. Tia Tia)",
+        "duration_ms": 134400
+      },
+      {
+        "name": "What's Going On (feat. Lucky Lou)",
+        "duration_ms": 134032
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "TYLA",
+    "num_tracks": 14,
+    "release_date": "2024-03-22",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273af0b5968b8bad3923b2ea76b",
+    "artist": "Tyla",
+    "genres": [],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "Intro",
+        "duration_ms": 41250
+      },
+      {
+        "name": "Safer",
+        "duration_ms": 159173
+      },
+      {
+        "name": "Water",
+        "duration_ms": 200255
+      },
+      {
+        "name": "Truth or Dare",
+        "duration_ms": 190392
+      },
+      {
+        "name": "No.1 (feat. Tems)",
+        "duration_ms": 147046
+      },
+      {
+        "name": "Breathe Me",
+        "duration_ms": 201110
+      },
+      {
+        "name": "Butterflies",
+        "duration_ms": 162764
+      },
+      {
+        "name": "On and On",
+        "duration_ms": 167746
+      },
+      {
+        "name": "Jump",
+        "duration_ms": 147071
+      },
+      {
+        "name": "ART",
+        "duration_ms": 148517
+      },
+      {
+        "name": "On My Body",
+        "duration_ms": 157999
+      },
+      {
+        "name": "Priorities",
+        "duration_ms": 194884
+      },
+      {
+        "name": "To Last",
+        "duration_ms": 176283
+      },
+      {
+        "name": "Water - Remix",
+        "duration_ms": 200255
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Stadtaffe",
+    "num_tracks": 12,
+    "release_date": "2008-09-26",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2739061a4e47413aff8f58a3c9c",
+    "artist": "Peter Fox",
+    "genres": [
+      "german pop",
+      "german rock"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "Alles neu",
+        "duration_ms": 260093
+      },
+      {
+        "name": "Schwarz zu blau",
+        "duration_ms": 215800
+      },
+      {
+        "name": "Haus am See",
+        "duration_ms": 216000
+      },
+      {
+        "name": "Kopf verloren",
+        "duration_ms": 201773
+      },
+      {
+        "name": "Das zweite Gesicht",
+        "duration_ms": 233413
+      },
+      {
+        "name": "Der letzte Tag",
+        "duration_ms": 222613
+      },
+      {
+        "name": "Ich Steine, Du Steine",
+        "duration_ms": 196773
+      },
+      {
+        "name": "Lok auf 2 Beinen",
+        "duration_ms": 224013
+      },
+      {
+        "name": "Stadtaffe",
+        "duration_ms": 219773
+      },
+      {
+        "name": "Fieber",
+        "duration_ms": 212920
+      },
+      {
+        "name": "Sch\u00fcttel deinen Speck",
+        "duration_ms": 171240
+      },
+      {
+        "name": "Zucker (feat. Vanessa Mason)",
+        "duration_ms": 192466
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Starboy",
+    "num_tracks": 18,
+    "release_date": "2016-11-25",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+    "artist": "The Weeknd",
+    "genres": [
+      "canadian contemporary r&b",
+      "canadian pop",
+      "pop"
+    ],
+    "price": 1599,
+    "tracks": [
+      {
+        "name": "Starboy",
+        "duration_ms": 230453
+      },
+      {
+        "name": "Party Monster",
+        "duration_ms": 249213
+      },
+      {
+        "name": "False Alarm",
+        "duration_ms": 220306
+      },
+      {
+        "name": "Reminder",
+        "duration_ms": 218880
+      },
+      {
+        "name": "Rockin\u2019",
+        "duration_ms": 232880
+      },
+      {
+        "name": "Secrets",
+        "duration_ms": 265600
+      },
+      {
+        "name": "True Colors",
+        "duration_ms": 206013
+      },
+      {
+        "name": "Stargirl Interlude",
+        "duration_ms": 111640
+      },
+      {
+        "name": "Sidewalks",
+        "duration_ms": 231360
+      },
+      {
+        "name": "Six Feet Under",
+        "duration_ms": 237573
+      },
+      {
+        "name": "Love To Lay",
+        "duration_ms": 223293
+      },
+      {
+        "name": "A Lonely Night",
+        "duration_ms": 220173
+      },
+      {
+        "name": "Attention",
+        "duration_ms": 197653
+      },
+      {
+        "name": "Ordinary Life",
+        "duration_ms": 221920
+      },
+      {
+        "name": "Nothing Without You",
+        "duration_ms": 198653
+      },
+      {
+        "name": "All I Know",
+        "duration_ms": 321026
+      },
+      {
+        "name": "Die For You",
+        "duration_ms": 260252
+      },
+      {
+        "name": "I Feel It Coming",
+        "duration_ms": 269186
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "The Fame Monster (Deluxe Edition)",
+    "num_tracks": 23,
+    "release_date": "2009-11-05",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+    "artist": "Lady Gaga",
+    "genres": [
+      "art pop",
+      "dance pop",
+      "pop"
+    ],
+    "price": 1999,
+    "tracks": [
+      {
+        "name": "Bad Romance",
+        "duration_ms": 294573
+      },
+      {
+        "name": "Alejandro",
+        "duration_ms": 274213
+      },
+      {
+        "name": "Monster",
+        "duration_ms": 249280
+      },
+      {
+        "name": "Speechless",
+        "duration_ms": 270813
+      },
+      {
+        "name": "Dance In The Dark",
+        "duration_ms": 288960
+      },
+      {
+        "name": "Telephone",
+        "duration_ms": 220640
+      },
+      {
+        "name": "So Happy I Could Die",
+        "duration_ms": 234866
+      },
+      {
+        "name": "Teeth",
+        "duration_ms": 220706
+      },
+      {
+        "name": "Just Dance",
+        "duration_ms": 241933
+      },
+      {
+        "name": "LoveGame",
+        "duration_ms": 216333
+      },
+      {
+        "name": "Paparazzi",
+        "duration_ms": 208306
+      },
+      {
+        "name": "Poker Face",
+        "duration_ms": 237200
+      },
+      {
+        "name": "Eh, Eh (Nothing Else I Can Say)",
+        "duration_ms": 175360
+      },
+      {
+        "name": "Beautiful, Dirty, Rich",
+        "duration_ms": 172413
+      },
+      {
+        "name": "The Fame",
+        "duration_ms": 222106
+      },
+      {
+        "name": "Money Honey",
+        "duration_ms": 170293
+      },
+      {
+        "name": "Starstruck",
+        "duration_ms": 217120
+      },
+      {
+        "name": "Boys Boys Boys",
+        "duration_ms": 200813
+      },
+      {
+        "name": "Paper Gangsta",
+        "duration_ms": 263360
+      },
+      {
+        "name": "Brown Eyes",
+        "duration_ms": 243000
+      },
+      {
+        "name": "I Like It Rough",
+        "duration_ms": 202493
+      },
+      {
+        "name": "Summerboy",
+        "duration_ms": 253946
+      },
+      {
+        "name": "Disco Heaven",
+        "duration_ms": 221480
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "VULTURES 1",
+    "num_tracks": 16,
+    "release_date": "2024-02-09",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2730a31b4026a452ae8c3f97a76",
+    "artist": "\u00a5$",
+    "genres": [],
+    "price": 1399,
+    "tracks": [
+      {
+        "name": "STARS",
+        "duration_ms": 115238
+      },
+      {
+        "name": "KEYS TO MY LIFE",
+        "duration_ms": 174083
+      },
+      {
+        "name": "PAID",
+        "duration_ms": 195117
+      },
+      {
+        "name": "TALKING",
+        "duration_ms": 185110
+      },
+      {
+        "name": "BACK TO ME",
+        "duration_ms": 295471
+      },
+      {
+        "name": "HOODRAT",
+        "duration_ms": 222982
+      },
+      {
+        "name": "DO IT",
+        "duration_ms": 225000
+      },
+      {
+        "name": "PAPERWORK",
+        "duration_ms": 145785
+      },
+      {
+        "name": "BURN",
+        "duration_ms": 111458
+      },
+      {
+        "name": "FUK SUMN",
+        "duration_ms": 209577
+      },
+      {
+        "name": "VULTURES",
+        "duration_ms": 276986
+      },
+      {
+        "name": "CARNIVAL",
+        "duration_ms": 264324
+      },
+      {
+        "name": "BEG FORGIVENESS",
+        "duration_ms": 368739
+      },
+      {
+        "name": "GOOD (DON'T DIE)",
+        "duration_ms": 199440
+      },
+      {
+        "name": "PROBLEMATIC",
+        "duration_ms": 194713
+      },
+      {
+        "name": "KING",
+        "duration_ms": 156862
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "MR. MISUNDERSTOOD",
+    "num_tracks": 20,
+    "release_date": "2023-05-12",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e2da5c7f447ba1bd7bcd9582",
+    "artist": "reezy",
+    "genres": [
+      "german hip hop",
+      "german r&b"
+    ],
+    "price": 1799,
+    "tracks": [
+      {
+        "name": "MISUNDERSTOOD SKIT",
+        "duration_ms": 32533
+      },
+      {
+        "name": "DRIPPED OUT IN DESIGNER",
+        "duration_ms": 173078
+      },
+      {
+        "name": "STEADY",
+        "duration_ms": 191116
+      },
+      {
+        "name": "SHOOT",
+        "duration_ms": 159836
+      },
+      {
+        "name": "HEARTLESS SKIT",
+        "duration_ms": 31558
+      },
+      {
+        "name": "VALENTINE",
+        "duration_ms": 157171
+      },
+      {
+        "name": "ONE NIGHT IN PARIS/DEEP DOWN",
+        "duration_ms": 197129
+      },
+      {
+        "name": "TRUSSS MEE/LACHS",
+        "duration_ms": 209876
+      },
+      {
+        "name": "HOW LONG SKIT",
+        "duration_ms": 33624
+      },
+      {
+        "name": "CRIB ALLEIN INTERLUDE",
+        "duration_ms": 123291
+      },
+      {
+        "name": "TIGER",
+        "duration_ms": 197556
+      },
+      {
+        "name": "PLAYA'S CIRCLE",
+        "duration_ms": 208182
+      },
+      {
+        "name": "HEALING SCARS SKIT",
+        "duration_ms": 41944
+      },
+      {
+        "name": "RUDE BABY",
+        "duration_ms": 176011
+      },
+      {
+        "name": "RED FLAGS",
+        "duration_ms": 152129
+      },
+      {
+        "name": "DOCTOR",
+        "duration_ms": 134716
+      },
+      {
+        "name": "EXPENSIVE SHIT",
+        "duration_ms": 179622
+      },
+      {
+        "name": "BABY DU WEISST",
+        "duration_ms": 121609
+      },
+      {
+        "name": "MOODSWINGS",
+        "duration_ms": 184169
+      },
+      {
+        "name": "CIRCLE OF LIFE SKIT",
+        "duration_ms": 62884
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Hybrid Theory (Bonus Edition)",
+    "num_tracks": 15,
+    "release_date": "2000",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+    "artist": "Linkin Park",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge",
+      "rap metal",
+      "rock"
+    ],
+    "price": 1299,
+    "tracks": [
+      {
+        "name": "Papercut",
+        "duration_ms": 184866
+      },
+      {
+        "name": "One Step Closer",
+        "duration_ms": 157333
+      },
+      {
+        "name": "With You",
+        "duration_ms": 203266
+      },
+      {
+        "name": "Points of Authority",
+        "duration_ms": 200240
+      },
+      {
+        "name": "Crawling",
+        "duration_ms": 208960
+      },
+      {
+        "name": "Runaway",
+        "duration_ms": 183973
+      },
+      {
+        "name": "By Myself",
+        "duration_ms": 189800
+      },
+      {
+        "name": "In the End",
+        "duration_ms": 216880
+      },
+      {
+        "name": "A Place for My Head",
+        "duration_ms": 184640
+      },
+      {
+        "name": "Forgotten",
+        "duration_ms": 194426
+      },
+      {
+        "name": "Cure for the Itch",
+        "duration_ms": 157200
+      },
+      {
+        "name": "Pushing Me Away",
+        "duration_ms": 191440
+      },
+      {
+        "name": "My December",
+        "duration_ms": 260560
+      },
+      {
+        "name": "High Voltage",
+        "duration_ms": 225106
+      },
+      {
+        "name": "Papercut - Live at BBC1",
+        "duration_ms": 189973
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Dachfenster",
+    "num_tracks": 7,
+    "release_date": "2021-07-02",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2739a4d56411ce32ada21d19177",
+    "artist": "01099",
+    "genres": [
+      "german hip hop"
+    ],
+    "price": 799,
+    "tracks": [
+      {
+        "name": "VHS",
+        "duration_ms": 140125
+      },
+      {
+        "name": "Durstl\u00f6scher",
+        "duration_ms": 161440
+      },
+      {
+        "name": "Halligalli",
+        "duration_ms": 239696
+      },
+      {
+        "name": "Frisch",
+        "duration_ms": 158105
+      },
+      {
+        "name": "Dachfenster",
+        "duration_ms": 176917
+      },
+      {
+        "name": "VHS 2",
+        "duration_ms": 115500
+      },
+      {
+        "name": "Durstl\u00f6scher - Piano Version",
+        "duration_ms": 158932
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Blaue Stunden",
+    "num_tracks": 15,
+    "release_date": "2023-11-03",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273f785af481498c6635e280119",
+    "artist": "01099",
+    "genres": [
+      "german hip hop"
+    ],
+    "price": 1299,
+    "tracks": [
+      {
+        "name": "Tempo",
+        "duration_ms": 131122
+      },
+      {
+        "name": "In der Nacht",
+        "duration_ms": 179335
+      },
+      {
+        "name": "Selbe Jugend",
+        "duration_ms": 180200
+      },
+      {
+        "name": "Wahnsinn",
+        "duration_ms": 148938
+      },
+      {
+        "name": "S1",
+        "duration_ms": 192579
+      },
+      {
+        "name": "Herz ist kalt",
+        "duration_ms": 127258
+      },
+      {
+        "name": "Anders",
+        "duration_ms": 155020
+      },
+      {
+        "name": "Matin",
+        "duration_ms": 152700
+      },
+      {
+        "name": "Alles war gelogen",
+        "duration_ms": 184569
+      },
+      {
+        "name": "Neustadt",
+        "duration_ms": 154970
+      },
+      {
+        "name": "Unsinn",
+        "duration_ms": 175584
+      },
+      {
+        "name": "Cider",
+        "duration_ms": 175798
+      },
+      {
+        "name": "August",
+        "duration_ms": 168560
+      },
+      {
+        "name": "Kreta 4.0 (Polonaise)",
+        "duration_ms": 166730
+      },
+      {
+        "name": "Besser w\u00e4r",
+        "duration_ms": 152400
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Palmen aus Plastik",
+    "num_tracks": 30,
+    "release_date": "2016-09-09",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273400cecaeedd03fc26b879a04",
+    "artist": "Bonez MC",
+    "genres": [
+      "german hip hop",
+      "hamburg hip hop"
+    ],
+    "price": 2699,
+    "tracks": [
+      {
+        "name": "Intro",
+        "duration_ms": 38750
+      },
+      {
+        "name": "Ciao Ciao",
+        "duration_ms": 153989
+      },
+      {
+        "name": "Palmen aus Plastik",
+        "duration_ms": 184995
+      },
+      {
+        "name": "M\u00f6rder",
+        "duration_ms": 214731
+      },
+      {
+        "name": "Ohne mein Team",
+        "duration_ms": 188503
+      },
+      {
+        "name": "Erblindet",
+        "duration_ms": 190156
+      },
+      {
+        "name": "Evil",
+        "duration_ms": 342009
+      },
+      {
+        "name": "Attackieren",
+        "duration_ms": 242206
+      },
+      {
+        "name": "Killa",
+        "duration_ms": 156002
+      },
+      {
+        "name": "Ruhe nach dem Sturm",
+        "duration_ms": 194875
+      },
+      {
+        "name": "Vaporizer",
+        "duration_ms": 232369
+      },
+      {
+        "name": "Dankbarkeit",
+        "duration_ms": 209441
+      },
+      {
+        "name": "Skimaske",
+        "duration_ms": 147001
+      },
+      {
+        "name": "Cabriolet",
+        "duration_ms": 213536
+      },
+      {
+        "name": "Daneben",
+        "duration_ms": 224184
+      },
+      {
+        "name": "Intro - Long Version",
+        "duration_ms": 50000
+      },
+      {
+        "name": "Ciao Ciao - Instrumental",
+        "duration_ms": 153261
+      },
+      {
+        "name": "Palmen aus Plastik - Instrumental",
+        "duration_ms": 181190
+      },
+      {
+        "name": "M\u00f6rder - Instrumental",
+        "duration_ms": 214731
+      },
+      {
+        "name": "Ohne mein Team - Instrumental",
+        "duration_ms": 188508
+      },
+      {
+        "name": "Erblindet - Instrumental",
+        "duration_ms": 190179
+      },
+      {
+        "name": "Evil - Instrumental",
+        "duration_ms": 337729
+      },
+      {
+        "name": "Attackieren - Instrumental",
+        "duration_ms": 240463
+      },
+      {
+        "name": "Killa - Instrumental",
+        "duration_ms": 150639
+      },
+      {
+        "name": "Ruhe nach dem Sturm - Instrumental",
+        "duration_ms": 194875
+      },
+      {
+        "name": "Vaporizer - Instrumental",
+        "duration_ms": 232359
+      },
+      {
+        "name": "Dankbarkeit - Instrumental",
+        "duration_ms": 209491
+      },
+      {
+        "name": "Skimaske - Instrumental",
+        "duration_ms": 146982
+      },
+      {
+        "name": "Cabriolet - Instrumental",
+        "duration_ms": 213530
+      },
+      {
+        "name": "Daneben - Instrumental",
+        "duration_ms": 224197
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Mutter",
+    "num_tracks": 11,
+    "release_date": "2001-04-02",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2738b2c42026277efc3e058855b",
+    "artist": "Rammstein",
+    "genres": [
+      "german metal",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "neue deutsche harte"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "Mein Herz brennt",
+        "duration_ms": 279893
+      },
+      {
+        "name": "Links 2 3 4",
+        "duration_ms": 216733
+      },
+      {
+        "name": "Sonne",
+        "duration_ms": 272440
+      },
+      {
+        "name": "Ich will",
+        "duration_ms": 217106
+      },
+      {
+        "name": "Feuer frei!",
+        "duration_ms": 188600
+      },
+      {
+        "name": "Mutter",
+        "duration_ms": 268600
+      },
+      {
+        "name": "Spieluhr",
+        "duration_ms": 286173
+      },
+      {
+        "name": "Zwitter",
+        "duration_ms": 257493
+      },
+      {
+        "name": "Rein raus",
+        "duration_ms": 189973
+      },
+      {
+        "name": "Adios",
+        "duration_ms": 228493
+      },
+      {
+        "name": "Nebel",
+        "duration_ms": 294600
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Ich & meine Maske (Premium Version)",
+    "num_tracks": 30,
+    "release_date": "2008-05-30",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273a681daac3504d386001e2f55",
+    "artist": "Sido",
+    "genres": [
+      "german hip hop",
+      "german pop"
+    ],
+    "price": 2699,
+    "tracks": [
+      {
+        "name": "Intro",
+        "duration_ms": 62053
+      },
+      {
+        "name": "Wieder zur\u00fcck",
+        "duration_ms": 230533
+      },
+      {
+        "name": "Halt dein Maul",
+        "duration_ms": 201346
+      },
+      {
+        "name": "Peilerman & Flow - Teil 5",
+        "duration_ms": 69586
+      },
+      {
+        "name": "Ich & meine Maske",
+        "duration_ms": 239946
+      },
+      {
+        "name": "Pack schl\u00e4gt sich (feat. Azad)",
+        "duration_ms": 190506
+      },
+      {
+        "name": "Peilerman & Flow - Teil 6",
+        "duration_ms": 54053
+      },
+      {
+        "name": "Augen auf",
+        "duration_ms": 230906
+      },
+      {
+        "name": "Herz",
+        "duration_ms": 267560
+      },
+      {
+        "name": "Peilerman & Flow - Teil 7",
+        "duration_ms": 43946
+      },
+      {
+        "name": "Strip f\u00fcr mich (feat. Kitty Kat)",
+        "duration_ms": 261213
+      },
+      {
+        "name": "Carmen",
+        "duration_ms": 226653
+      },
+      {
+        "name": "Peilerman & Flow - Teil 8",
+        "duration_ms": 37973
+      },
+      {
+        "name": "Scheiss drauf",
+        "duration_ms": 264786
+      },
+      {
+        "name": "Unser Leben (feat. Fler & Shizoe)",
+        "duration_ms": 271426
+      },
+      {
+        "name": "Nein! (feat. Doreen)",
+        "duration_ms": 243693
+      },
+      {
+        "name": "Schule (feat. Alpa Gun & Greckoe)",
+        "duration_ms": 230106
+      },
+      {
+        "name": "Jeder kriegt, was er verdient (feat. Tony D)",
+        "duration_ms": 165240
+      },
+      {
+        "name": "Danke",
+        "duration_ms": 286413
+      },
+      {
+        "name": "Aggrokalypse (feat. B-Tight, Fler & Kitty Kat)",
+        "duration_ms": 271213
+      },
+      {
+        "name": "Mario Barth Intro",
+        "duration_ms": 96880
+      },
+      {
+        "name": "Ich bin so gaga (feat. Bass Sultan Hengzt)",
+        "duration_ms": 252346
+      },
+      {
+        "name": "Tage (feat. Harris & Pillath)",
+        "duration_ms": 298800
+      },
+      {
+        "name": "Beweg dein Arsch (feat. Scooter & Kitty Kat & Tony D)",
+        "duration_ms": 208000
+      },
+      {
+        "name": "Wenn die Bosse reden (feat. B-Tight)",
+        "duration_ms": 290760
+      },
+      {
+        "name": "Ich und meine Katze (feat. Kitty Kat)",
+        "duration_ms": 205640
+      },
+      {
+        "name": "Deine Eltern",
+        "duration_ms": 278080
+      },
+      {
+        "name": "Kanacks & Hools (feat. Joe Rilla)",
+        "duration_ms": 285013
+      },
+      {
+        "name": "Meine Gang (feat. Die Sekte)",
+        "duration_ms": 241640
+      },
+      {
+        "name": "Halt dein Maul (feat. Kitty Kat & Willi Murda & Automatikk) (Remix)",
+        "duration_ms": 201760
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "The Eminem Show",
+    "num_tracks": 20,
+    "release_date": "2002-05-26",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2736ca5c90113b30c3c43ffb8f4",
+    "artist": "Eminem",
+    "genres": [
+      "detroit hip hop",
+      "hip hop",
+      "rap"
+    ],
+    "price": 1799,
+    "tracks": [
+      {
+        "name": "Curtains Up - Skit",
+        "duration_ms": 29826
+      },
+      {
+        "name": "White America",
+        "duration_ms": 324546
+      },
+      {
+        "name": "Business",
+        "duration_ms": 251720
+      },
+      {
+        "name": "Cleanin' Out My Closet",
+        "duration_ms": 297840
+      },
+      {
+        "name": "Square Dance",
+        "duration_ms": 323720
+      },
+      {
+        "name": "The Kiss - Skit",
+        "duration_ms": 75920
+      },
+      {
+        "name": "Soldier",
+        "duration_ms": 226213
+      },
+      {
+        "name": "Say Goodbye Hollywood",
+        "duration_ms": 272840
+      },
+      {
+        "name": "Drips",
+        "duration_ms": 285640
+      },
+      {
+        "name": "Without Me",
+        "duration_ms": 290320
+      },
+      {
+        "name": "Paul Rosenberg - Skit",
+        "duration_ms": 22746
+      },
+      {
+        "name": "Sing For The Moment",
+        "duration_ms": 339546
+      },
+      {
+        "name": "Superman",
+        "duration_ms": 350320
+      },
+      {
+        "name": "Hailie's Song",
+        "duration_ms": 320640
+      },
+      {
+        "name": "Steve Berman - Skit",
+        "duration_ms": 33106
+      },
+      {
+        "name": "When The Music Stops",
+        "duration_ms": 269013
+      },
+      {
+        "name": "Say What You Say",
+        "duration_ms": 309893
+      },
+      {
+        "name": "Till I Collapse",
+        "duration_ms": 297786
+      },
+      {
+        "name": "My Dad's Gone Crazy",
+        "duration_ms": 267013
+      },
+      {
+        "name": "Curtains Close",
+        "duration_ms": 61866
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "What Happens Now?",
+    "num_tracks": 8,
+    "release_date": "2024-02-16",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2734ccf88b66e04cfd247f287eb",
+    "artist": "Dasha",
+    "genres": [],
+    "price": 799,
+    "tracks": [
+      {
+        "name": "What Happens Now",
+        "duration_ms": 153070
+      },
+      {
+        "name": "42",
+        "duration_ms": 140625
+      },
+      {
+        "name": "Drown Me",
+        "duration_ms": 159843
+      },
+      {
+        "name": "Austin",
+        "duration_ms": 171782
+      },
+      {
+        "name": "King of California",
+        "duration_ms": 202585
+      },
+      {
+        "name": "Talk of the Town",
+        "duration_ms": 194565
+      },
+      {
+        "name": "Even Cowboys Cry",
+        "duration_ms": 190324
+      },
+      {
+        "name": "Share This City",
+        "duration_ms": 139934
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Treppenhaus",
+    "num_tracks": 12,
+    "release_date": "2020-07-31",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d550ef1cfbc8cbd1e5e3b741",
+    "artist": "Apache 207",
+    "genres": [
+      "german hip hop"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "28 Liter",
+        "duration_ms": 173226
+      },
+      {
+        "name": "Sie ruft",
+        "duration_ms": 152013
+      },
+      {
+        "name": "Fame",
+        "duration_ms": 173933
+      },
+      {
+        "name": "Beifahrersitz",
+        "duration_ms": 179586
+      },
+      {
+        "name": "Unterwegs",
+        "duration_ms": 172226
+      },
+      {
+        "name": "Bl\u00e4ulich",
+        "duration_ms": 196213
+      },
+      {
+        "name": "Stimmen",
+        "duration_ms": 196093
+      },
+      {
+        "name": "Boot",
+        "duration_ms": 193360
+      },
+      {
+        "name": "Auf und Ab",
+        "duration_ms": 160026
+      },
+      {
+        "name": "Nur noch einen Schluck",
+        "duration_ms": 178586
+      },
+      {
+        "name": "Nie verstehen",
+        "duration_ms": 177600
+      },
+      {
+        "name": "Matrix",
+        "duration_ms": 184760
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Weisses Herz",
+    "num_tracks": 14,
+    "release_date": "2022-07-08",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d366299e7be359f40913bfd3",
+    "artist": "AYLIVA",
+    "genres": [
+      "german pop"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "Sterben",
+        "duration_ms": 48712
+      },
+      {
+        "name": "Was du nicht weisst",
+        "duration_ms": 96653
+      },
+      {
+        "name": "Deine Schuld",
+        "duration_ms": 184500
+      },
+      {
+        "name": "Ich will nicht heim",
+        "duration_ms": 149892
+      },
+      {
+        "name": "Heim",
+        "duration_ms": 172142
+      },
+      {
+        "name": "Marie",
+        "duration_ms": 171723
+      },
+      {
+        "name": "Erz\u00e4hl ihnen alles",
+        "duration_ms": 168536
+      },
+      {
+        "name": "Bleib",
+        "duration_ms": 155238
+      },
+      {
+        "name": "Wenn ich wein",
+        "duration_ms": 134000
+      },
+      {
+        "name": "Schmetterlinge",
+        "duration_ms": 147983
+      },
+      {
+        "name": "Bei Nacht",
+        "duration_ms": 174000
+      },
+      {
+        "name": "Was Besseres",
+        "duration_ms": 163500
+      },
+      {
+        "name": "Gott sei Dank",
+        "duration_ms": 138878
+      },
+      {
+        "name": "Butterflies",
+        "duration_ms": 137670
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Love Sux",
+    "num_tracks": 12,
+    "release_date": "2022-02-25",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273dcb20af72a164e4b265cf89b",
+    "artist": "Avril Lavigne",
+    "genres": [
+      "canadian pop",
+      "candy pop",
+      "dance pop",
+      "pop"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "Cannonball",
+        "duration_ms": 138707
+      },
+      {
+        "name": "Bois Lie (feat. Machine Gun Kelly)",
+        "duration_ms": 163321
+      },
+      {
+        "name": "Bite Me",
+        "duration_ms": 159746
+      },
+      {
+        "name": "Love It When You Hate Me (feat. blackbear)",
+        "duration_ms": 145103
+      },
+      {
+        "name": "Love Sux",
+        "duration_ms": 168803
+      },
+      {
+        "name": "Kiss Me Like The World Is Ending",
+        "duration_ms": 170273
+      },
+      {
+        "name": "Avalanche",
+        "duration_ms": 219929
+      },
+      {
+        "name": "D\u00e9j\u00e0 vu",
+        "duration_ms": 203557
+      },
+      {
+        "name": "F.U.",
+        "duration_ms": 167794
+      },
+      {
+        "name": "All I Wanted (feat. Mark Hoppus)",
+        "duration_ms": 152864
+      },
+      {
+        "name": "Dare To Love Me",
+        "duration_ms": 214884
+      },
+      {
+        "name": "Break Of A Heartache",
+        "duration_ms": 111722
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "(What's The Story) Morning Glory?",
+    "num_tracks": 12,
+    "release_date": "1995-10-02",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2732f2eeee9b405f4d00428d84c",
+    "artist": "Oasis",
+    "genres": [
+      "beatlesque",
+      "britpop",
+      "madchester",
+      "permanent wave",
+      "rock"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "Hello",
+        "duration_ms": 203186
+      },
+      {
+        "name": "Roll With It",
+        "duration_ms": 239826
+      },
+      {
+        "name": "Wonderwall",
+        "duration_ms": 258906
+      },
+      {
+        "name": "Don't Look Back In Anger",
+        "duration_ms": 287826
+      },
+      {
+        "name": "Hey Now!",
+        "duration_ms": 341906
+      },
+      {
+        "name": "The Swamp Song - Version 1",
+        "duration_ms": 44626
+      },
+      {
+        "name": "Some Might Say",
+        "duration_ms": 327920
+      },
+      {
+        "name": "Cast No Shadow",
+        "duration_ms": 294813
+      },
+      {
+        "name": "She's Electric",
+        "duration_ms": 220920
+      },
+      {
+        "name": "Morning Glory",
+        "duration_ms": 303533
+      },
+      {
+        "name": "The Swamp Song - Version 2",
+        "duration_ms": 39360
+      },
+      {
+        "name": "Champagne Supernova",
+        "duration_ms": 450506
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "CLOUDS (THE MIXTAPE)",
+    "num_tracks": 11,
+    "release_date": "2021-03-26",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e0783b9378aa3857b8a9d24d",
+    "artist": "NF",
+    "genres": [
+      "hip hop",
+      "pop rap"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "CLOUDS",
+        "duration_ms": 243760
+      },
+      {
+        "name": "THAT'S A JOKE",
+        "duration_ms": 229656
+      },
+      {
+        "name": "JUST LIKE YOU",
+        "duration_ms": 251236
+      },
+      {
+        "name": "STORY",
+        "duration_ms": 279940
+      },
+      {
+        "name": "PRIDEFUL",
+        "duration_ms": 205768
+      },
+      {
+        "name": "LOST",
+        "duration_ms": 234852
+      },
+      {
+        "name": "LAYERS",
+        "duration_ms": 195226
+      },
+      {
+        "name": "DRIFTING",
+        "duration_ms": 200049
+      },
+      {
+        "name": "TRUST",
+        "duration_ms": 264415
+      },
+      {
+        "name": "PAID MY DUES",
+        "duration_ms": 211643
+      },
+      {
+        "name": "CLOUDS - Edit",
+        "duration_ms": 229687
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Happier Than Ever",
+    "num_tracks": 16,
+    "release_date": "2021-07-30",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "artist": "Billie Eilish",
+    "genres": [
+      "art pop",
+      "pop"
+    ],
+    "price": 1399,
+    "tracks": [
+      {
+        "name": "Getting Older",
+        "duration_ms": 244221
+      },
+      {
+        "name": "I Didn't Change My Number",
+        "duration_ms": 158463
+      },
+      {
+        "name": "Billie Bossa Nova",
+        "duration_ms": 196730
+      },
+      {
+        "name": "my future",
+        "duration_ms": 210005
+      },
+      {
+        "name": "Oxytocin",
+        "duration_ms": 210232
+      },
+      {
+        "name": "GOLDWING",
+        "duration_ms": 151536
+      },
+      {
+        "name": "Lost Cause",
+        "duration_ms": 212496
+      },
+      {
+        "name": "Halley's Comet",
+        "duration_ms": 234761
+      },
+      {
+        "name": "Not My Responsibility",
+        "duration_ms": 227679
+      },
+      {
+        "name": "OverHeated",
+        "duration_ms": 214058
+      },
+      {
+        "name": "Everybody Dies",
+        "duration_ms": 206622
+      },
+      {
+        "name": "Your Power",
+        "duration_ms": 245896
+      },
+      {
+        "name": "NDA",
+        "duration_ms": 195776
+      },
+      {
+        "name": "Therefore I Am",
+        "duration_ms": 173539
+      },
+      {
+        "name": "Happier Than Ever",
+        "duration_ms": 298899
+      },
+      {
+        "name": "Male Fantasy",
+        "duration_ms": 194886
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Tickets To My Downfall",
+    "num_tracks": 15,
+    "release_date": "2020-09-25",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d4d4929a3a86fe2f9fadbd42",
+    "artist": "mgk",
+    "genres": [
+      "ohio hip hop",
+      "pop rap"
+    ],
+    "price": 1299,
+    "tracks": [
+      {
+        "name": "title track",
+        "duration_ms": 165967
+      },
+      {
+        "name": "kiss kiss",
+        "duration_ms": 138097
+      },
+      {
+        "name": "drunk face",
+        "duration_ms": 143900
+      },
+      {
+        "name": "bloody valentine",
+        "duration_ms": 205158
+      },
+      {
+        "name": "forget me too (feat. Halsey)",
+        "duration_ms": 171620
+      },
+      {
+        "name": "all I know (feat. Trippie Redd)",
+        "duration_ms": 129142
+      },
+      {
+        "name": "lonely",
+        "duration_ms": 190142
+      },
+      {
+        "name": "WWIII",
+        "duration_ms": 59739
+      },
+      {
+        "name": "kevin and barracuda - interlude",
+        "duration_ms": 83297
+      },
+      {
+        "name": "concert for aliens",
+        "duration_ms": 160222
+      },
+      {
+        "name": "my ex's best friend (with blackbear)",
+        "duration_ms": 139460
+      },
+      {
+        "name": "jawbreaker",
+        "duration_ms": 117579
+      },
+      {
+        "name": "nothing inside (feat. iann dior)",
+        "duration_ms": 172234
+      },
+      {
+        "name": "banyan tree - interlude",
+        "duration_ms": 91143
+      },
+      {
+        "name": "play this when i'm gone",
+        "duration_ms": 202213
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "When You See Yourself",
+    "num_tracks": 11,
+    "release_date": "2021-03-05",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27377253620f08397c998d18d78",
+    "artist": "Kings of Leon",
+    "genres": [
+      "modern rock",
+      "rock"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "When You See Yourself, Are You Far Away",
+        "duration_ms": 347653
+      },
+      {
+        "name": "The Bandit",
+        "duration_ms": 250973
+      },
+      {
+        "name": "100,000 People",
+        "duration_ms": 344013
+      },
+      {
+        "name": "Stormy Weather",
+        "duration_ms": 222266
+      },
+      {
+        "name": "A Wave",
+        "duration_ms": 323440
+      },
+      {
+        "name": "Golden Restless Age",
+        "duration_ms": 273133
+      },
+      {
+        "name": "Time in Disguise",
+        "duration_ms": 285640
+      },
+      {
+        "name": "Supermarket",
+        "duration_ms": 298186
+      },
+      {
+        "name": "Claire & Eddie",
+        "duration_ms": 292506
+      },
+      {
+        "name": "Echoing",
+        "duration_ms": 217346
+      },
+      {
+        "name": "Fairytale",
+        "duration_ms": 235586
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Das Album",
+    "num_tracks": 13,
+    "release_date": "2021-09-24",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273c2d7989ce2a049bc360669c6",
+    "artist": "We Butter The Bread With Butter",
+    "genres": [
+      "german metalcore",
+      "trancecore"
+    ],
+    "price": 1099,
+    "tracks": [
+      {
+        "name": "Das Album Intro",
+        "duration_ms": 63771
+      },
+      {
+        "name": "Dreh auf!",
+        "duration_ms": 182437
+      },
+      {
+        "name": "20 km/h",
+        "duration_ms": 191522
+      },
+      {
+        "name": "N!CE",
+        "duration_ms": 186517
+      },
+      {
+        "name": "Schreibwarenfachverk\u00e4ufer",
+        "duration_ms": 213320
+      },
+      {
+        "name": "L\u00e4uft",
+        "duration_ms": 156124
+      },
+      {
+        "name": "Jump 'n' Run",
+        "duration_ms": 230044
+      },
+      {
+        "name": "Sprich sie einfach an",
+        "duration_ms": 169100
+      },
+      {
+        "name": "Meine Finger sind zu klein",
+        "duration_ms": 240154
+      },
+      {
+        "name": "Piks mich",
+        "duration_ms": 229047
+      },
+      {
+        "name": "Metal",
+        "duration_ms": 204682
+      },
+      {
+        "name": "Angriff der D\u00f6nerteller",
+        "duration_ms": 217124
+      },
+      {
+        "name": "Letzter Song",
+        "duration_ms": 201654
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "HUMANOID-FLAMETHROWER",
+    "num_tracks": 7,
+    "release_date": "2021-12-10",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27357f937dcb5f763f90fa8f986",
+    "artist": "TJ_beastboy",
+    "genres": [],
+    "price": 799,
+    "tracks": [
+      {
+        "name": "Go Godzilla On Ya Frikkn City",
+        "duration_ms": 181000
+      },
+      {
+        "name": "SOUL EATER",
+        "duration_ms": 199500
+      },
+      {
+        "name": "GUT<BESSER<ICH",
+        "duration_ms": 157000
+      },
+      {
+        "name": "\u73fe\u4ee3\u306e\u4f8d",
+        "duration_ms": 103000
+      },
+      {
+        "name": "ANIME",
+        "duration_ms": 216000
+      },
+      {
+        "name": "BOX",
+        "duration_ms": 218500
+      },
+      {
+        "name": "AN ALLE, DIE DAS F\u00dcHLEN",
+        "duration_ms": 181000
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Servant Of The Mind (Deluxe)",
+    "num_tracks": 18,
+    "release_date": "2021-12-03",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273108d3b26e2c2fd86c6c1b7ec",
+    "artist": "Volbeat",
+    "genres": [
+      "danish metal",
+      "danish rock"
+    ],
+    "price": 1599,
+    "tracks": [
+      {
+        "name": "Temple Of Ekur",
+        "duration_ms": 259173
+      },
+      {
+        "name": "Wait A Minute My Girl",
+        "duration_ms": 140053
+      },
+      {
+        "name": "The Sacred Stones",
+        "duration_ms": 374400
+      },
+      {
+        "name": "Shotgun Blues",
+        "duration_ms": 267826
+      },
+      {
+        "name": "The Devil Rages On",
+        "duration_ms": 310000
+      },
+      {
+        "name": "Say No More",
+        "duration_ms": 280600
+      },
+      {
+        "name": "Heaven's Descent",
+        "duration_ms": 250680
+      },
+      {
+        "name": "Dagen F\u00f8r",
+        "duration_ms": 249693
+      },
+      {
+        "name": "The Passenger",
+        "duration_ms": 217173
+      },
+      {
+        "name": "Step Into Light",
+        "duration_ms": 296453
+      },
+      {
+        "name": "Becoming",
+        "duration_ms": 253346
+      },
+      {
+        "name": "Mindlock",
+        "duration_ms": 288906
+      },
+      {
+        "name": "Lasse's Birgitta",
+        "duration_ms": 476880
+      },
+      {
+        "name": "Return To None",
+        "duration_ms": 155973
+      },
+      {
+        "name": "Domino",
+        "duration_ms": 176533
+      },
+      {
+        "name": "Shotgun Blues",
+        "duration_ms": 267840
+      },
+      {
+        "name": "Dagen F\u00f8r - Michael Vox Version",
+        "duration_ms": 249146
+      },
+      {
+        "name": "Don\u2019t Tread On Me",
+        "duration_ms": 216460
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "amo",
+    "num_tracks": 13,
+    "release_date": "2019-01-25",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27349e3b7e85829da2fbc68bc46",
+    "artist": "Bring Me The Horizon",
+    "genres": [
+      "melodic metalcore",
+      "metalcore",
+      "modern rock",
+      "rock",
+      "uk metalcore"
+    ],
+    "price": 1099,
+    "tracks": [
+      {
+        "name": "i apologise if you feel something",
+        "duration_ms": 139563
+      },
+      {
+        "name": "MANTRA",
+        "duration_ms": 233128
+      },
+      {
+        "name": "nihilist blues (feat. Grimes)",
+        "duration_ms": 325501
+      },
+      {
+        "name": "in the dark",
+        "duration_ms": 271186
+      },
+      {
+        "name": "wonderful life (feat. Dani Filth)",
+        "duration_ms": 274403
+      },
+      {
+        "name": "ouch",
+        "duration_ms": 109011
+      },
+      {
+        "name": "medicine",
+        "duration_ms": 227265
+      },
+      {
+        "name": "sugar honey ice & tea",
+        "duration_ms": 261560
+      },
+      {
+        "name": "why you gotta kick me when i'm down?",
+        "duration_ms": 268860
+      },
+      {
+        "name": "fresh bruises",
+        "duration_ms": 198454
+      },
+      {
+        "name": "mother tongue",
+        "duration_ms": 217424
+      },
+      {
+        "name": "heavy metal (feat. Rahzel)",
+        "duration_ms": 240586
+      },
+      {
+        "name": "i don't know what to say",
+        "duration_ms": 352375
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Amends",
+    "num_tracks": 11,
+    "release_date": "2020-06-26",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273dce8de84cfdaeee572e18b34",
+    "artist": "Grey Daze",
+    "genres": [
+      "post-grunge"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "Sickness",
+        "duration_ms": 171933
+      },
+      {
+        "name": "Sometimes",
+        "duration_ms": 206680
+      },
+      {
+        "name": "What's In The Eye",
+        "duration_ms": 205880
+      },
+      {
+        "name": "The Syndrome",
+        "duration_ms": 229653
+      },
+      {
+        "name": "In Time",
+        "duration_ms": 234786
+      },
+      {
+        "name": "Just Like Heroin",
+        "duration_ms": 205786
+      },
+      {
+        "name": "B12",
+        "duration_ms": 213680
+      },
+      {
+        "name": "Soul Song",
+        "duration_ms": 246440
+      },
+      {
+        "name": "Morei Sky",
+        "duration_ms": 232813
+      },
+      {
+        "name": "She Shines",
+        "duration_ms": 215280
+      },
+      {
+        "name": "Shouting Out",
+        "duration_ms": 199866
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Demon Days",
+    "num_tracks": 15,
+    "release_date": "2005-05-23",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf",
+    "artist": "Gorillaz",
+    "genres": [
+      "alternative hip hop",
+      "modern rock",
+      "rock"
+    ],
+    "price": 1299,
+    "tracks": [
+      {
+        "name": "Intro",
+        "duration_ms": 67133
+      },
+      {
+        "name": "Last Living Souls",
+        "duration_ms": 195400
+      },
+      {
+        "name": "Kids with Guns",
+        "duration_ms": 225773
+      },
+      {
+        "name": "O Green World",
+        "duration_ms": 275000
+      },
+      {
+        "name": "Dirty Harry",
+        "duration_ms": 230426
+      },
+      {
+        "name": "Feel Good Inc.",
+        "duration_ms": 222640
+      },
+      {
+        "name": "El Ma\u00f1ana",
+        "duration_ms": 235360
+      },
+      {
+        "name": "Every Planet We Reach Is Dead",
+        "duration_ms": 295266
+      },
+      {
+        "name": "November Has Come",
+        "duration_ms": 165093
+      },
+      {
+        "name": "All Alone",
+        "duration_ms": 213333
+      },
+      {
+        "name": "White Light",
+        "duration_ms": 133066
+      },
+      {
+        "name": "DARE",
+        "duration_ms": 244999
+      },
+      {
+        "name": "Fire Coming out of the Monkey's Head",
+        "duration_ms": 199000
+      },
+      {
+        "name": "Don't Get Lost in Heaven",
+        "duration_ms": 131866
+      },
+      {
+        "name": "Demon Days",
+        "duration_ms": 268400
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "POST HUMAN: SURVIVAL HORROR",
+    "num_tracks": 9,
+    "release_date": "2020-10-30",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2735149c948fde506624246a684",
+    "artist": "Bring Me The Horizon",
+    "genres": [
+      "melodic metalcore",
+      "metalcore",
+      "modern rock",
+      "rock",
+      "uk metalcore"
+    ],
+    "price": 799,
+    "tracks": [
+      {
+        "name": "Dear Diary,",
+        "duration_ms": 164797
+      },
+      {
+        "name": "Parasite Eve",
+        "duration_ms": 291812
+      },
+      {
+        "name": "Teardrops",
+        "duration_ms": 215003
+      },
+      {
+        "name": "Obey (with YUNGBLUD)",
+        "duration_ms": 220538
+      },
+      {
+        "name": "Itch For The Cure (When Will We Be Free?)",
+        "duration_ms": 86242
+      },
+      {
+        "name": "Kingslayer (feat. BABYMETAL)",
+        "duration_ms": 220041
+      },
+      {
+        "name": "1x1 (feat. Nova Twins)",
+        "duration_ms": 209598
+      },
+      {
+        "name": "Ludens",
+        "duration_ms": 280151
+      },
+      {
+        "name": "One Day The Only Butterflies Left Will Be In Your Chest As You March Towards Your Death (feat. Amy Lee)",
+        "duration_ms": 243140
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "F.E.A.R.",
+    "num_tracks": 12,
+    "release_date": "2015-01-27",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273ce6a541e43100048e7e7ec82",
+    "artist": "Papa Roach",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "rap metal",
+      "rap rock",
+      "rock"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "Face Everything And Rise",
+        "duration_ms": 190586
+      },
+      {
+        "name": "Skeletons",
+        "duration_ms": 235378
+      },
+      {
+        "name": "Broken As Me",
+        "duration_ms": 217893
+      },
+      {
+        "name": "Falling Apart",
+        "duration_ms": 188919
+      },
+      {
+        "name": "Love Me Till It Hurts",
+        "duration_ms": 223530
+      },
+      {
+        "name": "Never Have To Say Goodbye",
+        "duration_ms": 227097
+      },
+      {
+        "name": "Gravity",
+        "duration_ms": 244448
+      },
+      {
+        "name": "War Over Me",
+        "duration_ms": 238433
+      },
+      {
+        "name": "Devil",
+        "duration_ms": 207559
+      },
+      {
+        "name": "Warriors",
+        "duration_ms": 175939
+      },
+      {
+        "name": "Hope For The Hopeless",
+        "duration_ms": 179019
+      },
+      {
+        "name": "Fear Hate Love",
+        "duration_ms": 207260
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Third Eye Blind",
+    "num_tracks": 14,
+    "release_date": "1997-04-08",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2734139c9208eeed67d2a211beb",
+    "artist": "Third Eye Blind",
+    "genres": [
+      "alternative metal",
+      "alternative rock",
+      "pop rock",
+      "post-grunge"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "Losing a Whole Year",
+        "duration_ms": 200640
+      },
+      {
+        "name": "Narcolepsy",
+        "duration_ms": 228453
+      },
+      {
+        "name": "Semi-Charmed Life",
+        "duration_ms": 268360
+      },
+      {
+        "name": "Jumper - 1998 Edit",
+        "duration_ms": 272973
+      },
+      {
+        "name": "Graduate",
+        "duration_ms": 187666
+      },
+      {
+        "name": "How's It Going to Be",
+        "duration_ms": 253413
+      },
+      {
+        "name": "Thanks a Lot",
+        "duration_ms": 297626
+      },
+      {
+        "name": "Burning Man",
+        "duration_ms": 179733
+      },
+      {
+        "name": "Good for You",
+        "duration_ms": 232000
+      },
+      {
+        "name": "London",
+        "duration_ms": 187000
+      },
+      {
+        "name": "I Want You",
+        "duration_ms": 269013
+      },
+      {
+        "name": "The Background",
+        "duration_ms": 296733
+      },
+      {
+        "name": "Motorcycle Drive By",
+        "duration_ms": 262626
+      },
+      {
+        "name": "God of Wine",
+        "duration_ms": 317200
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Hollywood's Bleeding",
+    "num_tracks": 17,
+    "release_date": "2019-09-06",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+    "artist": "Post Malone",
+    "genres": [
+      "dfw rap",
+      "melodic rap",
+      "pop",
+      "rap"
+    ],
+    "price": 1499,
+    "tracks": [
+      {
+        "name": "Hollywood's Bleeding",
+        "duration_ms": 156266
+      },
+      {
+        "name": "Saint-Tropez",
+        "duration_ms": 150866
+      },
+      {
+        "name": "Enemies (feat. DaBaby)",
+        "duration_ms": 196760
+      },
+      {
+        "name": "Allergic",
+        "duration_ms": 156893
+      },
+      {
+        "name": "A Thousand Bad Times",
+        "duration_ms": 221173
+      },
+      {
+        "name": "Circles",
+        "duration_ms": 215280
+      },
+      {
+        "name": "Die For Me (feat. Future & Halsey)",
+        "duration_ms": 245266
+      },
+      {
+        "name": "On The Road (feat. Meek Mill & Lil Baby)",
+        "duration_ms": 218320
+      },
+      {
+        "name": "Take What You Want (feat. Ozzy Osbourne & Travis Scott)",
+        "duration_ms": 229573
+      },
+      {
+        "name": "I'm Gonna Be",
+        "duration_ms": 200680
+      },
+      {
+        "name": "Staring At The Sun (feat. SZA)",
+        "duration_ms": 168280
+      },
+      {
+        "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+        "duration_ms": 157560
+      },
+      {
+        "name": "Internet",
+        "duration_ms": 123386
+      },
+      {
+        "name": "Goodbyes (feat. Young Thug)",
+        "duration_ms": 174853
+      },
+      {
+        "name": "Myself",
+        "duration_ms": 158120
+      },
+      {
+        "name": "I Know",
+        "duration_ms": 141413
+      },
+      {
+        "name": "Wow.",
+        "duration_ms": 149546
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "beerbongs & bentleys",
+    "num_tracks": 18,
+    "release_date": "2018-04-27",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+    "artist": "Post Malone",
+    "genres": [
+      "dfw rap",
+      "melodic rap",
+      "pop",
+      "rap"
+    ],
+    "price": 1599,
+    "tracks": [
+      {
+        "name": "Paranoid",
+        "duration_ms": 221786
+      },
+      {
+        "name": "Spoil My Night (feat. Swae Lee)",
+        "duration_ms": 194560
+      },
+      {
+        "name": "Rich & Sad",
+        "duration_ms": 206453
+      },
+      {
+        "name": "Zack And Codeine",
+        "duration_ms": 204360
+      },
+      {
+        "name": "Takin' Shots",
+        "duration_ms": 216746
+      },
+      {
+        "name": "rockstar (feat. 21 Savage)",
+        "duration_ms": 218146
+      },
+      {
+        "name": "Over Now",
+        "duration_ms": 246986
+      },
+      {
+        "name": "Psycho (feat. Ty Dolla $ign)",
+        "duration_ms": 221440
+      },
+      {
+        "name": "Better Now",
+        "duration_ms": 231266
+      },
+      {
+        "name": "Ball For Me (feat. Nicki Minaj)",
+        "duration_ms": 206266
+      },
+      {
+        "name": "Otherside",
+        "duration_ms": 228226
+      },
+      {
+        "name": "Stay",
+        "duration_ms": 204426
+      },
+      {
+        "name": "Blame It On Me",
+        "duration_ms": 261799
+      },
+      {
+        "name": "Same Bitches (feat. G-Eazy & YG)",
+        "duration_ms": 212466
+      },
+      {
+        "name": "Jonestown (Interlude)",
+        "duration_ms": 112013
+      },
+      {
+        "name": "92 Explorer",
+        "duration_ms": 211426
+      },
+      {
+        "name": "Candy Paint",
+        "duration_ms": 227533
+      },
+      {
+        "name": "Sugar Wraith",
+        "duration_ms": 228146
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "One More Light",
+    "num_tracks": 10,
+    "release_date": "2017-05-19",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273145e1cf12538f5666511237d",
+    "artist": "Linkin Park",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge",
+      "rap metal",
+      "rock"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "Nobody Can Save Me",
+        "duration_ms": 225546
+      },
+      {
+        "name": "Good Goodbye (feat. Pusha T and Stormzy)",
+        "duration_ms": 211413
+      },
+      {
+        "name": "Talking to Myself",
+        "duration_ms": 231306
+      },
+      {
+        "name": "Battle Symphony",
+        "duration_ms": 216281
+      },
+      {
+        "name": "Invisible",
+        "duration_ms": 214346
+      },
+      {
+        "name": "Heavy (feat. Kiiara)",
+        "duration_ms": 169800
+      },
+      {
+        "name": "Sorry for Now",
+        "duration_ms": 203653
+      },
+      {
+        "name": "Halfway Right",
+        "duration_ms": 217066
+      },
+      {
+        "name": "One More Light",
+        "duration_ms": 255066
+      },
+      {
+        "name": "Sharp Edges",
+        "duration_ms": 178200
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "The Hunting Party",
+    "num_tracks": 12,
+    "release_date": "2014-06-09",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2735721adac031512b903f10d03",
+    "artist": "Linkin Park",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge",
+      "rap metal",
+      "rock"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "Keys to the Kingdom",
+        "duration_ms": 218546
+      },
+      {
+        "name": "All for Nothing (feat. Page Hamilton)",
+        "duration_ms": 213653
+      },
+      {
+        "name": "Guilty All the Same (feat. Rakim)",
+        "duration_ms": 355120
+      },
+      {
+        "name": "The Summoning",
+        "duration_ms": 60440
+      },
+      {
+        "name": "War",
+        "duration_ms": 131160
+      },
+      {
+        "name": "Wastelands",
+        "duration_ms": 195893
+      },
+      {
+        "name": "Until It's Gone",
+        "duration_ms": 233240
+      },
+      {
+        "name": "Rebellion (feat. Daron Malakian)",
+        "duration_ms": 224160
+      },
+      {
+        "name": "Mark the Graves",
+        "duration_ms": 305013
+      },
+      {
+        "name": "Drawbar (feat. Tom Morello)",
+        "duration_ms": 166933
+      },
+      {
+        "name": "Final Masquerade",
+        "duration_ms": 217613
+      },
+      {
+        "name": "A Line in the Sand",
+        "duration_ms": 395066
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "LIVING THINGS",
+    "num_tracks": 12,
+    "release_date": "2012-06-19",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4",
+    "artist": "Linkin Park",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge",
+      "rap metal",
+      "rock"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "LOST IN THE ECHO",
+        "duration_ms": 205120
+      },
+      {
+        "name": "IN MY REMAINS",
+        "duration_ms": 200693
+      },
+      {
+        "name": "BURN IT DOWN",
+        "duration_ms": 230253
+      },
+      {
+        "name": "LIES GREED MISERY",
+        "duration_ms": 146493
+      },
+      {
+        "name": "I'LL BE GONE",
+        "duration_ms": 211093
+      },
+      {
+        "name": "CASTLE OF GLASS",
+        "duration_ms": 205400
+      },
+      {
+        "name": "VICTIMIZED",
+        "duration_ms": 106360
+      },
+      {
+        "name": "ROADS UNTRAVELED",
+        "duration_ms": 229933
+      },
+      {
+        "name": "SKIN TO BONE",
+        "duration_ms": 168346
+      },
+      {
+        "name": "UNTIL IT BREAKS",
+        "duration_ms": 223400
+      },
+      {
+        "name": "TINFOIL",
+        "duration_ms": 71893
+      },
+      {
+        "name": "POWERLESS",
+        "duration_ms": 224466
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "A Thousand Suns",
+    "num_tracks": 15,
+    "release_date": "2010-09-08",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27359211e56a493ac4509457bab",
+    "artist": "Linkin Park",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge",
+      "rap metal",
+      "rock"
+    ],
+    "price": 1299,
+    "tracks": [
+      {
+        "name": "The Requiem",
+        "duration_ms": 121120
+      },
+      {
+        "name": "The Radiance",
+        "duration_ms": 57800
+      },
+      {
+        "name": "Burning in the Skies",
+        "duration_ms": 253160
+      },
+      {
+        "name": "Empty Spaces",
+        "duration_ms": 18333
+      },
+      {
+        "name": "When They Come for Me",
+        "duration_ms": 293453
+      },
+      {
+        "name": "Robot Boy",
+        "duration_ms": 268986
+      },
+      {
+        "name": "Jornada Del Muerto",
+        "duration_ms": 94906
+      },
+      {
+        "name": "Waiting for the End",
+        "duration_ms": 231680
+      },
+      {
+        "name": "Blackout",
+        "duration_ms": 279453
+      },
+      {
+        "name": "Wretches and Kings",
+        "duration_ms": 250586
+      },
+      {
+        "name": "Wisdom, Justice, and Love",
+        "duration_ms": 98773
+      },
+      {
+        "name": "Iridescent",
+        "duration_ms": 296560
+      },
+      {
+        "name": "Fallout",
+        "duration_ms": 83053
+      },
+      {
+        "name": "The Catalyst",
+        "duration_ms": 339853
+      },
+      {
+        "name": "The Messenger",
+        "duration_ms": 181893
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Minutes to Midnight",
+    "num_tracks": 14,
+    "release_date": "2007-05-14",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2738145b51d1cdca483aff64358",
+    "artist": "Linkin Park",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge",
+      "rap metal",
+      "rock"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "Wake",
+        "duration_ms": 100920
+      },
+      {
+        "name": "Given Up",
+        "duration_ms": 189293
+      },
+      {
+        "name": "Leave Out All The Rest",
+        "duration_ms": 209306
+      },
+      {
+        "name": "Bleed It Out",
+        "duration_ms": 164760
+      },
+      {
+        "name": "Shadow of the Day",
+        "duration_ms": 290360
+      },
+      {
+        "name": "What I've Done",
+        "duration_ms": 205613
+      },
+      {
+        "name": "Hands Held High",
+        "duration_ms": 233133
+      },
+      {
+        "name": "No More Sorrow",
+        "duration_ms": 221693
+      },
+      {
+        "name": "Valentine's Day",
+        "duration_ms": 196840
+      },
+      {
+        "name": "In Between",
+        "duration_ms": 196746
+      },
+      {
+        "name": "In Pieces",
+        "duration_ms": 218013
+      },
+      {
+        "name": "The Little Things Give You Away",
+        "duration_ms": 383506
+      },
+      {
+        "name": "Faint - Live from Third Encore Studio, North Hollywood, CA, 3/14/2007",
+        "duration_ms": 164280
+      },
+      {
+        "name": "What I've Done - Live from Third Encore Studio, North Hollywood, CA, 3/14/2007",
+        "duration_ms": 204533
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Meteora (Bonus Edition)",
+    "num_tracks": 16,
+    "release_date": "2003-09-16",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2738b5b6fa1326d996181e71dd7",
+    "artist": "Linkin Park",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge",
+      "rap metal",
+      "rock"
+    ],
+    "price": 1399,
+    "tracks": [
+      {
+        "name": "Foreword",
+        "duration_ms": 13440
+      },
+      {
+        "name": "Don't Stay",
+        "duration_ms": 187933
+      },
+      {
+        "name": "Somewhere I Belong",
+        "duration_ms": 213933
+      },
+      {
+        "name": "Lying from You",
+        "duration_ms": 175053
+      },
+      {
+        "name": "Hit the Floor",
+        "duration_ms": 164213
+      },
+      {
+        "name": "Easier to Run",
+        "duration_ms": 204173
+      },
+      {
+        "name": "Faint",
+        "duration_ms": 162106
+      },
+      {
+        "name": "Figure.09",
+        "duration_ms": 197506
+      },
+      {
+        "name": "Breaking the Habit",
+        "duration_ms": 196133
+      },
+      {
+        "name": "From the Inside",
+        "duration_ms": 175506
+      },
+      {
+        "name": "Nobody's Listening",
+        "duration_ms": 178866
+      },
+      {
+        "name": "Session",
+        "duration_ms": 144733
+      },
+      {
+        "name": "Numb",
+        "duration_ms": 187520
+      },
+      {
+        "name": "Lying from You - Live LP Underground Tour 2003",
+        "duration_ms": 184493
+      },
+      {
+        "name": "From the Inside - Live LP Underground Tour 2003",
+        "duration_ms": 175960
+      },
+      {
+        "name": "Easier to Run - Live LP Underground Tour 2003",
+        "duration_ms": 202466
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Therapy Session",
+    "num_tracks": 14,
+    "release_date": "2016-04-22",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27314c95b3975386061f46f3983",
+    "artist": "NF",
+    "genres": [
+      "hip hop",
+      "pop rap"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "Intro 2",
+        "duration_ms": 195933
+      },
+      {
+        "name": "Therapy Session",
+        "duration_ms": 331480
+      },
+      {
+        "name": "I Just Wanna Know",
+        "duration_ms": 226306
+      },
+      {
+        "name": "How Could You Leave Us",
+        "duration_ms": 322586
+      },
+      {
+        "name": "Breathe",
+        "duration_ms": 259106
+      },
+      {
+        "name": "Real",
+        "duration_ms": 263040
+      },
+      {
+        "name": "Oh Lord",
+        "duration_ms": 198253
+      },
+      {
+        "name": "I Can Feel It",
+        "duration_ms": 233573
+      },
+      {
+        "name": "Got You On My Mind",
+        "duration_ms": 241160
+      },
+      {
+        "name": "Grindin'",
+        "duration_ms": 277293
+      },
+      {
+        "name": "Wish You Wouldn't",
+        "duration_ms": 286266
+      },
+      {
+        "name": "Statement",
+        "duration_ms": 190920
+      },
+      {
+        "name": "All I Do",
+        "duration_ms": 228493
+      },
+      {
+        "name": "Lost In The Moment",
+        "duration_ms": 242680
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Toys In The Attic",
+    "num_tracks": 9,
+    "release_date": "1975-04-08",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2739662c6535fb4bf5767e50f32",
+    "artist": "Aerosmith",
+    "genres": [
+      "album rock",
+      "classic rock",
+      "hard rock",
+      "rock"
+    ],
+    "price": 799,
+    "tracks": [
+      {
+        "name": "Toys In The Attic",
+        "duration_ms": 185133
+      },
+      {
+        "name": "Uncle Salty",
+        "duration_ms": 249826
+      },
+      {
+        "name": "Adam's Apple",
+        "duration_ms": 273933
+      },
+      {
+        "name": "Walk This Way",
+        "duration_ms": 220400
+      },
+      {
+        "name": "Big Ten Inch Record",
+        "duration_ms": 135400
+      },
+      {
+        "name": "Sweet Emotion",
+        "duration_ms": 274133
+      },
+      {
+        "name": "No More No More",
+        "duration_ms": 274106
+      },
+      {
+        "name": "Round And Round",
+        "duration_ms": 303200
+      },
+      {
+        "name": "You See Me Crying",
+        "duration_ms": 311666
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Blurryface",
+    "num_tracks": 14,
+    "release_date": "2015-05-15",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273352e5ec301a02278ffe53d14",
+    "artist": "Twenty One Pilots",
+    "genres": [
+      "modern rock",
+      "pop",
+      "pov: indie",
+      "rock"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "Heavydirtysoul",
+        "duration_ms": 234813
+      },
+      {
+        "name": "Stressed Out",
+        "duration_ms": 202333
+      },
+      {
+        "name": "Ride",
+        "duration_ms": 214506
+      },
+      {
+        "name": "Fairly Local",
+        "duration_ms": 207160
+      },
+      {
+        "name": "Tear in My Heart",
+        "duration_ms": 188493
+      },
+      {
+        "name": "Lane Boy",
+        "duration_ms": 253093
+      },
+      {
+        "name": "The Judge",
+        "duration_ms": 297760
+      },
+      {
+        "name": "Doubt",
+        "duration_ms": 191493
+      },
+      {
+        "name": "Polarize",
+        "duration_ms": 226786
+      },
+      {
+        "name": "We Don't Believe What's on TV",
+        "duration_ms": 177200
+      },
+      {
+        "name": "Message Man",
+        "duration_ms": 240080
+      },
+      {
+        "name": "Hometown",
+        "duration_ms": 234946
+      },
+      {
+        "name": "Not Today",
+        "duration_ms": 238040
+      },
+      {
+        "name": "Goner",
+        "duration_ms": 236733
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Trench",
+    "num_tracks": 14,
+    "release_date": "2018-10-05",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2737a1bbe4ec7066c9db1d0f398",
+    "artist": "Twenty One Pilots",
+    "genres": [
+      "modern rock",
+      "pop",
+      "pov: indie",
+      "rock"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "Jumpsuit",
+        "duration_ms": 238560
+      },
+      {
+        "name": "Levitate",
+        "duration_ms": 145946
+      },
+      {
+        "name": "Morph",
+        "duration_ms": 258853
+      },
+      {
+        "name": "My Blood",
+        "duration_ms": 229120
+      },
+      {
+        "name": "Chlorine",
+        "duration_ms": 324466
+      },
+      {
+        "name": "Smithereens",
+        "duration_ms": 177040
+      },
+      {
+        "name": "Neon Gravestones",
+        "duration_ms": 240266
+      },
+      {
+        "name": "The Hype",
+        "duration_ms": 265373
+      },
+      {
+        "name": "Nico and the Niners",
+        "duration_ms": 225040
+      },
+      {
+        "name": "Cut My Lip",
+        "duration_ms": 282613
+      },
+      {
+        "name": "Bandito",
+        "duration_ms": 330986
+      },
+      {
+        "name": "Pet Cheetah",
+        "duration_ms": 198360
+      },
+      {
+        "name": "Legend",
+        "duration_ms": 172560
+      },
+      {
+        "name": "Leave the City",
+        "duration_ms": 280493
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Scaled And Icy",
+    "num_tracks": 11,
+    "release_date": "2021-05-21",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273239ee8e0c619611d8beef008",
+    "artist": "Twenty One Pilots",
+    "genres": [
+      "modern rock",
+      "pop",
+      "pov: indie",
+      "rock"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "Good Day",
+        "duration_ms": 204400
+      },
+      {
+        "name": "Choker",
+        "duration_ms": 223065
+      },
+      {
+        "name": "Shy Away",
+        "duration_ms": 175044
+      },
+      {
+        "name": "The Outside",
+        "duration_ms": 216758
+      },
+      {
+        "name": "Saturday",
+        "duration_ms": 172232
+      },
+      {
+        "name": "Never Take It",
+        "duration_ms": 212706
+      },
+      {
+        "name": "Mulberry Street",
+        "duration_ms": 224398
+      },
+      {
+        "name": "Formidable",
+        "duration_ms": 176324
+      },
+      {
+        "name": "Bounce Man",
+        "duration_ms": 185438
+      },
+      {
+        "name": "No Chances",
+        "duration_ms": 226449
+      },
+      {
+        "name": "Redecorate",
+        "duration_ms": 245842
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "The Wall (Remastered)",
+    "num_tracks": 26,
+    "release_date": "1979-11-30",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273f34e8811de255b34c56301d8",
+    "artist": "Pink Floyd",
+    "genres": [
+      "album rock",
+      "art rock",
+      "classic rock",
+      "progressive rock",
+      "psychedelic rock",
+      "rock",
+      "symphonic rock"
+    ],
+    "price": 2299,
+    "tracks": [
+      {
+        "name": "In The Flesh? - 2011 Remastered Version",
+        "duration_ms": 198800
+      },
+      {
+        "name": "The Thin Ice - 2011 Remastered Version",
+        "duration_ms": 146933
+      },
+      {
+        "name": "Another Brick In The Wall, Pt. 1 - 2011 Remastered Version",
+        "duration_ms": 191293
+      },
+      {
+        "name": "The Happiest Days Of Our Lives - 2011 Remastered Version",
+        "duration_ms": 98266
+      },
+      {
+        "name": "Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",
+        "duration_ms": 228586
+      },
+      {
+        "name": "Mother - 2011 Remastered Version",
+        "duration_ms": 334880
+      },
+      {
+        "name": "Goodbye Blue Sky - 2011 Remastered Version",
+        "duration_ms": 167293
+      },
+      {
+        "name": "Empty Spaces - 2011 Remastered Version",
+        "duration_ms": 127786
+      },
+      {
+        "name": "Young Lust - 2011 Remastered Version",
+        "duration_ms": 209786
+      },
+      {
+        "name": "One Of My Turns - 2011 Remastered Version",
+        "duration_ms": 216946
+      },
+      {
+        "name": "Don't Leave Me Now - 2011 Remastered Version",
+        "duration_ms": 255813
+      },
+      {
+        "name": "Another Brick In The Wall, Pt. 3 - 2011 Remastered Version",
+        "duration_ms": 74533
+      },
+      {
+        "name": "Goodbye Cruel World - 2011 Remastered Version",
+        "duration_ms": 74306
+      },
+      {
+        "name": "Hey You - 2011 Remastered Version",
+        "duration_ms": 278706
+      },
+      {
+        "name": "Is There Anybody Out There? - 2011 Remastered Version",
+        "duration_ms": 161786
+      },
+      {
+        "name": "Nobody Home - 2011 Remastered Version",
+        "duration_ms": 202640
+      },
+      {
+        "name": "Vera - 2011 Remastered Version",
+        "duration_ms": 93146
+      },
+      {
+        "name": "Bring The Boys Back Home - 2011 Remastered Version",
+        "duration_ms": 87573
+      },
+      {
+        "name": "Comfortably Numb - 2011 Remastered Version",
+        "duration_ms": 379213
+      },
+      {
+        "name": "The Show Must Go On - 2011 Remastered Version",
+        "duration_ms": 96333
+      },
+      {
+        "name": "In The Flesh - 2011 Remaster",
+        "duration_ms": 255906
+      },
+      {
+        "name": "Run Like Hell - 2011 Remastered Version",
+        "duration_ms": 263386
+      },
+      {
+        "name": "Waiting For The Worms - 2011 Remastered Version",
+        "duration_ms": 237133
+      },
+      {
+        "name": "Stop - 2011 Remastered Version",
+        "duration_ms": 30733
+      },
+      {
+        "name": "The Trial - 2011 Remastered Version",
+        "duration_ms": 318640
+      },
+      {
+        "name": "Outside The Wall - 2011 Remastered Version",
+        "duration_ms": 103746
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "PARANORMAL-FLOWMACHINE",
+    "num_tracks": 7,
+    "release_date": "2020-08-21",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27346fd34c6a67dd548eac0cce7",
+    "artist": "TJ_beastboy",
+    "genres": [],
+    "price": 799,
+    "tracks": [
+      {
+        "name": "Alarm Code Red",
+        "duration_ms": 181000
+      },
+      {
+        "name": "PULL UP",
+        "duration_ms": 256500
+      },
+      {
+        "name": "300 Words In A Minute",
+        "duration_ms": 71500
+      },
+      {
+        "name": "$W4G",
+        "duration_ms": 177000
+      },
+      {
+        "name": "PRETTY BOI",
+        "duration_ms": 105000
+      },
+      {
+        "name": "K33P OUT",
+        "duration_ms": 166000
+      },
+      {
+        "name": "DEMENTOR SWAGGER",
+        "duration_ms": 187500
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Billy Talent",
+    "num_tracks": 12,
+    "release_date": "2003-08-26",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2739112c0d924dffefa27baa74b",
+    "artist": "Billy Talent",
+    "genres": [
+      "canadian punk"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "This Is How It Goes",
+        "duration_ms": 207133
+      },
+      {
+        "name": "Living in the Shadows",
+        "duration_ms": 195560
+      },
+      {
+        "name": "Try Honesty",
+        "duration_ms": 255813
+      },
+      {
+        "name": "Line and Sinker",
+        "duration_ms": 216600
+      },
+      {
+        "name": "Lies",
+        "duration_ms": 179093
+      },
+      {
+        "name": "The Ex",
+        "duration_ms": 160400
+      },
+      {
+        "name": "River Below",
+        "duration_ms": 180000
+      },
+      {
+        "name": "Standing in the Rain",
+        "duration_ms": 200533
+      },
+      {
+        "name": "Cut the Curtains",
+        "duration_ms": 230466
+      },
+      {
+        "name": "Prisoners of Today",
+        "duration_ms": 233040
+      },
+      {
+        "name": "Nothing to Lose",
+        "duration_ms": 218266
+      },
+      {
+        "name": "Voices of Violence",
+        "duration_ms": 190360
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Billy Talent II",
+    "num_tracks": 14,
+    "release_date": "2006-06-23",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27351ad1636a7d0456ad972a71c",
+    "artist": "Billy Talent",
+    "genres": [
+      "canadian punk"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "Devil in a Midnight Mass",
+        "duration_ms": 171866
+      },
+      {
+        "name": "Red Flag",
+        "duration_ms": 198173
+      },
+      {
+        "name": "This Suffering",
+        "duration_ms": 236960
+      },
+      {
+        "name": "Worker Bees",
+        "duration_ms": 224720
+      },
+      {
+        "name": "Pins and Needles",
+        "duration_ms": 191226
+      },
+      {
+        "name": "Fallen Leaves",
+        "duration_ms": 199200
+      },
+      {
+        "name": "Where Is the Line?",
+        "duration_ms": 229720
+      },
+      {
+        "name": "Covered in Cowardice",
+        "duration_ms": 252226
+      },
+      {
+        "name": "Surrender",
+        "duration_ms": 246600
+      },
+      {
+        "name": "The Navy Song",
+        "duration_ms": 271546
+      },
+      {
+        "name": "Perfect World",
+        "duration_ms": 186733
+      },
+      {
+        "name": "Sympathy",
+        "duration_ms": 198040
+      },
+      {
+        "name": "Burn the Evidence",
+        "duration_ms": 220466
+      },
+      {
+        "name": "Devil in a Midnight Mass - Demo Version",
+        "duration_ms": 199400
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Billy Talent III",
+    "num_tracks": 11,
+    "release_date": "2009-06-30",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2737fd1237085e6617487d43c3f",
+    "artist": "Billy Talent",
+    "genres": [
+      "canadian punk"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "Devil on My Shoulder",
+        "duration_ms": 229533
+      },
+      {
+        "name": "Rusted From the Rain",
+        "duration_ms": 253306
+      },
+      {
+        "name": "Saint Veronika",
+        "duration_ms": 249586
+      },
+      {
+        "name": "Tears Into Wine",
+        "duration_ms": 252466
+      },
+      {
+        "name": "White Sparrows",
+        "duration_ms": 194626
+      },
+      {
+        "name": "Pocketful of Dreams",
+        "duration_ms": 201066
+      },
+      {
+        "name": "The Dead Can't Testify",
+        "duration_ms": 267426
+      },
+      {
+        "name": "Diamond on a Landmine",
+        "duration_ms": 270800
+      },
+      {
+        "name": "Turn Your Back",
+        "duration_ms": 202226
+      },
+      {
+        "name": "Sudden Movements",
+        "duration_ms": 219280
+      },
+      {
+        "name": "Definition of Destiny",
+        "duration_ms": 242306
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Dead Silence",
+    "num_tracks": 14,
+    "release_date": "2012-09-07",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27360b367e461cf988aba05dc34",
+    "artist": "Billy Talent",
+    "genres": [
+      "canadian punk"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "Lonely Road to Absolution",
+        "duration_ms": 75440
+      },
+      {
+        "name": "Viking Death March",
+        "duration_ms": 242989
+      },
+      {
+        "name": "Surprise Surprise",
+        "duration_ms": 188607
+      },
+      {
+        "name": "Runnin' Across the Tracks",
+        "duration_ms": 259239
+      },
+      {
+        "name": "Love Was Still Around",
+        "duration_ms": 226786
+      },
+      {
+        "name": "Stand up and Run",
+        "duration_ms": 200360
+      },
+      {
+        "name": "Crooked Minds",
+        "duration_ms": 304680
+      },
+      {
+        "name": "Man Alive!",
+        "duration_ms": 216160
+      },
+      {
+        "name": "Hanging by a Thread",
+        "duration_ms": 233480
+      },
+      {
+        "name": "Cure for the Enemy",
+        "duration_ms": 266693
+      },
+      {
+        "name": "Don't Count on the Wicked",
+        "duration_ms": 248666
+      },
+      {
+        "name": "Show Me the Way",
+        "duration_ms": 186026
+      },
+      {
+        "name": "Swallowed up by the Ocean",
+        "duration_ms": 302666
+      },
+      {
+        "name": "Dead Silence",
+        "duration_ms": 288960
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "New Empire, Vol. 2",
+    "num_tracks": 12,
+    "release_date": "2020-12-04",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273b216f9b370d01ffff16204a8",
+    "artist": "Hollywood Undead",
+    "genres": [
+      "alternative metal",
+      "modern rock",
+      "post-grunge",
+      "rap metal",
+      "rap rock"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "Medicate",
+        "duration_ms": 189897
+      },
+      {
+        "name": "Comin' Thru The Stereo (feat. Hyro The Hero)",
+        "duration_ms": 206730
+      },
+      {
+        "name": "Ghost Out",
+        "duration_ms": 163977
+      },
+      {
+        "name": "Gonna Be OK",
+        "duration_ms": 174937
+      },
+      {
+        "name": "Monsters (feat. Killstation)",
+        "duration_ms": 183056
+      },
+      {
+        "name": "Idol (feat. Tech N9ne)",
+        "duration_ms": 247154
+      },
+      {
+        "name": "Coming Home",
+        "duration_ms": 193112
+      },
+      {
+        "name": "Unholy",
+        "duration_ms": 159215
+      },
+      {
+        "name": "Worth It",
+        "duration_ms": 181563
+      },
+      {
+        "name": "Heart Of A Champion (feat. Papa Roach & Ice Nine Kills)",
+        "duration_ms": 210160
+      },
+      {
+        "name": "Idol (feat. Gh\u00f8stkid)",
+        "duration_ms": 247152
+      },
+      {
+        "name": "Idol (feat. KURT92)",
+        "duration_ms": 247154
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Mad World",
+    "num_tracks": 18,
+    "release_date": "2020-12-04",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27316386b212b50920183e11711",
+    "artist": "Timmy Trumpet",
+    "genres": [
+      "australian dance",
+      "big room",
+      "melbourne bounce",
+      "melbourne bounce international"
+    ],
+    "price": 1599,
+    "tracks": [
+      {
+        "name": "Intro",
+        "duration_ms": 94094
+      },
+      {
+        "name": "The City",
+        "duration_ms": 177864
+      },
+      {
+        "name": "Child Of The Devil",
+        "duration_ms": 142663
+      },
+      {
+        "name": "Not Like You (feat. Kheela)",
+        "duration_ms": 159660
+      },
+      {
+        "name": "Thunder",
+        "duration_ms": 160434
+      },
+      {
+        "name": "Up & Down",
+        "duration_ms": 119141
+      },
+      {
+        "name": "El Toro (feat. Afandi)",
+        "duration_ms": 225380
+      },
+      {
+        "name": "Cold",
+        "duration_ms": 150674
+      },
+      {
+        "name": "911",
+        "duration_ms": 128695
+      },
+      {
+        "name": "Paul Is Dead",
+        "duration_ms": 174291
+      },
+      {
+        "name": "The Snail",
+        "duration_ms": 161488
+      },
+      {
+        "name": "Mad World",
+        "duration_ms": 153303
+      },
+      {
+        "name": "Rollercoaster (feat. Just Juice)",
+        "duration_ms": 177000
+      },
+      {
+        "name": "One More Time (feat. PollyAnna)",
+        "duration_ms": 135391
+      },
+      {
+        "name": "Happy",
+        "duration_ms": 228000
+      },
+      {
+        "name": "Mars",
+        "duration_ms": 187511
+      },
+      {
+        "name": "Easy",
+        "duration_ms": 162000
+      },
+      {
+        "name": "Final\u00e9",
+        "duration_ms": 147000
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Welcome To Horrorwood: The Silver Scream 2",
+    "num_tracks": 14,
+    "release_date": "2021-10-15",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273eb2826b3e23703d6e1d1bd0a",
+    "artist": "Ice Nine Kills",
+    "genres": [
+      "metalcore"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "Opening Night\u2026",
+        "duration_ms": 42946
+      },
+      {
+        "name": "Welcome To Horrorwood",
+        "duration_ms": 235053
+      },
+      {
+        "name": "A Rash Decision",
+        "duration_ms": 211320
+      },
+      {
+        "name": "Assault & Batteries",
+        "duration_ms": 208346
+      },
+      {
+        "name": "The Shower Scene",
+        "duration_ms": 191693
+      },
+      {
+        "name": "Funeral Derangements",
+        "duration_ms": 224586
+      },
+      {
+        "name": "Rainy Day",
+        "duration_ms": 181520
+      },
+      {
+        "name": "Hip To Be Scared [Feat. Jacoby Shaddix]",
+        "duration_ms": 203560
+      },
+      {
+        "name": "Take Your Pick [Feat. Corpsegrinder]",
+        "duration_ms": 197786
+      },
+      {
+        "name": "The Box [Feat. Brandon Saller & Ryan Kirby]",
+        "duration_ms": 215133
+      },
+      {
+        "name": "F.L.Y. [Feat. Buddy Nielsen]",
+        "duration_ms": 180933
+      },
+      {
+        "name": "Wurst Vacation",
+        "duration_ms": 230573
+      },
+      {
+        "name": "Ex-M\u00f8rtis",
+        "duration_ms": 201053
+      },
+      {
+        "name": "Farewell II Flesh",
+        "duration_ms": 314733
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "CMFT",
+    "num_tracks": 13,
+    "release_date": "2020-10-02",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d456fce7d1d2032fe7344b1c",
+    "artist": "Corey Taylor",
+    "genres": [
+      "alternative metal",
+      "alternative rock",
+      "nu metal",
+      "post-grunge"
+    ],
+    "price": 1099,
+    "tracks": [
+      {
+        "name": "HWY 666",
+        "duration_ms": 249045
+      },
+      {
+        "name": "Black Eyes Blue",
+        "duration_ms": 202445
+      },
+      {
+        "name": "Samantha's Gone",
+        "duration_ms": 192045
+      },
+      {
+        "name": "Meine Lux",
+        "duration_ms": 192841
+      },
+      {
+        "name": "Halfway Down",
+        "duration_ms": 195026
+      },
+      {
+        "name": "Silverfish",
+        "duration_ms": 246979
+      },
+      {
+        "name": "Kansas",
+        "duration_ms": 254087
+      },
+      {
+        "name": "Culture Head",
+        "duration_ms": 239141
+      },
+      {
+        "name": "Everybody Dies On My Birthday",
+        "duration_ms": 201833
+      },
+      {
+        "name": "The Maria Fire",
+        "duration_ms": 232820
+      },
+      {
+        "name": "Home",
+        "duration_ms": 226327
+      },
+      {
+        "name": "CMFT Must Be Stopped (feat. Tech N9ne and Kid Bookie)",
+        "duration_ms": 314446
+      },
+      {
+        "name": "European Tour Bus Bathroom Song",
+        "duration_ms": 119975
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Si Vis Pacem, Para Bellum",
+    "num_tracks": 13,
+    "release_date": "2020-08-28",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2735ca27e07de053ed44dff8fca",
+    "artist": "Seether",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge",
+      "south african rock"
+    ],
+    "price": 1099,
+    "tracks": [
+      {
+        "name": "Dead And Done",
+        "duration_ms": 207093
+      },
+      {
+        "name": "Bruised And Bloodied",
+        "duration_ms": 217773
+      },
+      {
+        "name": "Wasteland",
+        "duration_ms": 239626
+      },
+      {
+        "name": "Dangerous",
+        "duration_ms": 229640
+      },
+      {
+        "name": "Liar",
+        "duration_ms": 258933
+      },
+      {
+        "name": "Can't Go Wrong",
+        "duration_ms": 227213
+      },
+      {
+        "name": "Buried In The Sand",
+        "duration_ms": 257493
+      },
+      {
+        "name": "Let It Go",
+        "duration_ms": 248213
+      },
+      {
+        "name": "Failure",
+        "duration_ms": 231840
+      },
+      {
+        "name": "Beg",
+        "duration_ms": 220200
+      },
+      {
+        "name": "Drift Away",
+        "duration_ms": 292120
+      },
+      {
+        "name": "Pride Before The Fall",
+        "duration_ms": 252973
+      },
+      {
+        "name": "Written In Stone",
+        "duration_ms": 217973
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "mainstream sellout",
+    "num_tracks": 16,
+    "release_date": "2022-03-25",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273da3769a95d849abbb4d73573",
+    "artist": "mgk",
+    "genres": [
+      "ohio hip hop",
+      "pop rap"
+    ],
+    "price": 1399,
+    "tracks": [
+      {
+        "name": "born with horns",
+        "duration_ms": 147943
+      },
+      {
+        "name": "god save me",
+        "duration_ms": 180469
+      },
+      {
+        "name": "maybe (feat. Bring Me The Horizon)",
+        "duration_ms": 170133
+      },
+      {
+        "name": "drug dealer (feat. Lil Wayne)",
+        "duration_ms": 172283
+      },
+      {
+        "name": "wall of fame - interlude",
+        "duration_ms": 32812
+      },
+      {
+        "name": "mainstream sellout",
+        "duration_ms": 107849
+      },
+      {
+        "name": "make up sex (feat. blackbear)",
+        "duration_ms": 122570
+      },
+      {
+        "name": "emo girl (feat. WILLOW)",
+        "duration_ms": 159096
+      },
+      {
+        "name": "5150",
+        "duration_ms": 174848
+      },
+      {
+        "name": "papercuts - album edit",
+        "duration_ms": 181039
+      },
+      {
+        "name": "WW4",
+        "duration_ms": 72577
+      },
+      {
+        "name": "ay! (feat. Lil Wayne)",
+        "duration_ms": 124188
+      },
+      {
+        "name": "fake love don't last (feat. iann dior)",
+        "duration_ms": 143204
+      },
+      {
+        "name": "die in california (feat. Gunna, Young Thug & Landon Barker)",
+        "duration_ms": 207007
+      },
+      {
+        "name": "sid & nancy",
+        "duration_ms": 189981
+      },
+      {
+        "name": "twin flame",
+        "duration_ms": 239212
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Ego Trip",
+    "num_tracks": 14,
+    "release_date": "2022-04-08",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27365090aad7b5179047315e3b8",
+    "artist": "Papa Roach",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "rap metal",
+      "rap rock",
+      "rock"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "Kill The Noise",
+        "duration_ms": 188127
+      },
+      {
+        "name": "Stand Up",
+        "duration_ms": 228299
+      },
+      {
+        "name": "Swerve (feat. FEVER 333 & Sueco)",
+        "duration_ms": 168289
+      },
+      {
+        "name": "Bloodline",
+        "duration_ms": 146231
+      },
+      {
+        "name": "Liar",
+        "duration_ms": 177925
+      },
+      {
+        "name": "Ego Trip",
+        "duration_ms": 174725
+      },
+      {
+        "name": "Unglued",
+        "duration_ms": 180294
+      },
+      {
+        "name": "Dying To Believe",
+        "duration_ms": 181854
+      },
+      {
+        "name": "Killing Time",
+        "duration_ms": 203085
+      },
+      {
+        "name": "Leave a Light On (Talk Away The Dark)",
+        "duration_ms": 187609
+      },
+      {
+        "name": "Always Wandering",
+        "duration_ms": 166182
+      },
+      {
+        "name": "No Apologies",
+        "duration_ms": 188139
+      },
+      {
+        "name": "Cut The Line",
+        "duration_ms": 209664
+      },
+      {
+        "name": "I Surrender",
+        "duration_ms": 174116
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Unlimited Love",
+    "num_tracks": 17,
+    "release_date": "2022-04-01",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27397a52e0aeda9d95fb881c56d",
+    "artist": "Red Hot Chili Peppers",
+    "genres": [
+      "alternative rock",
+      "funk metal",
+      "funk rock",
+      "permanent wave",
+      "rock"
+    ],
+    "price": 1499,
+    "tracks": [
+      {
+        "name": "Black Summer",
+        "duration_ms": 232412
+      },
+      {
+        "name": "Here Ever After",
+        "duration_ms": 230342
+      },
+      {
+        "name": "Aquatic Mouth Dance",
+        "duration_ms": 260792
+      },
+      {
+        "name": "Not the One",
+        "duration_ms": 266326
+      },
+      {
+        "name": "Poster Child",
+        "duration_ms": 318421
+      },
+      {
+        "name": "The Great Apes",
+        "duration_ms": 301828
+      },
+      {
+        "name": "It's Only Natural",
+        "duration_ms": 333547
+      },
+      {
+        "name": "She's a Lover",
+        "duration_ms": 221092
+      },
+      {
+        "name": "These Are the Ways",
+        "duration_ms": 236216
+      },
+      {
+        "name": "Whatchu Thinkin'",
+        "duration_ms": 220905
+      },
+      {
+        "name": "Bastards of Light",
+        "duration_ms": 218932
+      },
+      {
+        "name": "White Braids & Pillow Chair",
+        "duration_ms": 220523
+      },
+      {
+        "name": "One Way Traffic",
+        "duration_ms": 250670
+      },
+      {
+        "name": "Veronica",
+        "duration_ms": 268996
+      },
+      {
+        "name": "Let 'Em Cry",
+        "duration_ms": 263152
+      },
+      {
+        "name": "The Heavy Wing",
+        "duration_ms": 331424
+      },
+      {
+        "name": "Tangelo",
+        "duration_ms": 217967
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Zeit",
+    "num_tracks": 11,
+    "release_date": "2022-04-29",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2731108fef87966d83948b6a037",
+    "artist": "Rammstein",
+    "genres": [
+      "german metal",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "neue deutsche harte"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "Armee der Tristen",
+        "duration_ms": 205589
+      },
+      {
+        "name": "Zeit",
+        "duration_ms": 321686
+      },
+      {
+        "name": "Schwarz",
+        "duration_ms": 258108
+      },
+      {
+        "name": "Giftig",
+        "duration_ms": 188263
+      },
+      {
+        "name": "Zick Zack",
+        "duration_ms": 244365
+      },
+      {
+        "name": "OK",
+        "duration_ms": 243720
+      },
+      {
+        "name": "Meine Tr\u00e4nen",
+        "duration_ms": 237045
+      },
+      {
+        "name": "Angst",
+        "duration_ms": 224801
+      },
+      {
+        "name": "Dicke Titten",
+        "duration_ms": 218593
+      },
+      {
+        "name": "L\u00fcgen",
+        "duration_ms": 229844
+      },
+      {
+        "name": "Adieu",
+        "duration_ms": 278211
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "The Phoenix",
+    "num_tracks": 10,
+    "release_date": "2022-06-17",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273d550b84d31d2e13f58868d63",
+    "artist": "Grey Daze",
+    "genres": [
+      "post-grunge"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "Saturation (Strange Love)",
+        "duration_ms": 235133
+      },
+      {
+        "name": "Starting To Fly",
+        "duration_ms": 207840
+      },
+      {
+        "name": "Be Your Man",
+        "duration_ms": 220320
+      },
+      {
+        "name": "Holding You",
+        "duration_ms": 255200
+      },
+      {
+        "name": "Hole",
+        "duration_ms": 274880
+      },
+      {
+        "name": "Drag",
+        "duration_ms": 212706
+      },
+      {
+        "name": "Believe Me",
+        "duration_ms": 233360
+      },
+      {
+        "name": "Anything, Anything",
+        "duration_ms": 227853
+      },
+      {
+        "name": "Spin",
+        "duration_ms": 246013
+      },
+      {
+        "name": "Wake Me",
+        "duration_ms": 205280
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Hotel Kalifornia",
+    "num_tracks": 14,
+    "release_date": "2022-08-12",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2736126eca0b8f99f32e22fbbdb",
+    "artist": "Hollywood Undead",
+    "genres": [
+      "alternative metal",
+      "modern rock",
+      "post-grunge",
+      "rap metal",
+      "rap rock"
+    ],
+    "price": 1199,
+    "tracks": [
+      {
+        "name": "CHAOS",
+        "duration_ms": 182243
+      },
+      {
+        "name": "World War Me",
+        "duration_ms": 190998
+      },
+      {
+        "name": "Ruin My Life",
+        "duration_ms": 183274
+      },
+      {
+        "name": "Hourglass",
+        "duration_ms": 163752
+      },
+      {
+        "name": "Go To War",
+        "duration_ms": 166284
+      },
+      {
+        "name": "Alone At The Top",
+        "duration_ms": 225572
+      },
+      {
+        "name": "Wild In These Streets",
+        "duration_ms": 204314
+      },
+      {
+        "name": "Dangerous",
+        "duration_ms": 204371
+      },
+      {
+        "name": "Lion Eyes",
+        "duration_ms": 178661
+      },
+      {
+        "name": "Trap God",
+        "duration_ms": 184644
+      },
+      {
+        "name": "Happy When I Die",
+        "duration_ms": 152716
+      },
+      {
+        "name": "Reclaim",
+        "duration_ms": 194866
+      },
+      {
+        "name": "City Of The Dead",
+        "duration_ms": 173931
+      },
+      {
+        "name": "Alright",
+        "duration_ms": 209027
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "TRUE POWER",
+    "num_tracks": 15,
+    "release_date": "2022-08-19",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273fdf16e6dc8b69f3e7c2b258b",
+    "artist": "I Prevail",
+    "genres": [
+      "alternative metal",
+      "nu-metalcore",
+      "post-grunge"
+    ],
+    "price": 1299,
+    "tracks": [
+      {
+        "name": "0:00",
+        "duration_ms": 41507
+      },
+      {
+        "name": "There\u2019s Fear In Letting Go",
+        "duration_ms": 234945
+      },
+      {
+        "name": "Body Bag",
+        "duration_ms": 196979
+      },
+      {
+        "name": "Self-Destruction",
+        "duration_ms": 146176
+      },
+      {
+        "name": "Bad Things",
+        "duration_ms": 228260
+      },
+      {
+        "name": "Fake",
+        "duration_ms": 171606
+      },
+      {
+        "name": "Judgement Day",
+        "duration_ms": 166331
+      },
+      {
+        "name": "FWYTYK",
+        "duration_ms": 197981
+      },
+      {
+        "name": "Deep End",
+        "duration_ms": 206142
+      },
+      {
+        "name": "Long Live The King",
+        "duration_ms": 180727
+      },
+      {
+        "name": "Choke",
+        "duration_ms": 182388
+      },
+      {
+        "name": "The Negative",
+        "duration_ms": 140441
+      },
+      {
+        "name": "Closure",
+        "duration_ms": 189596
+      },
+      {
+        "name": "Visceral",
+        "duration_ms": 164073
+      },
+      {
+        "name": "Doomed",
+        "duration_ms": 227082
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "in loving memory",
+    "num_tracks": 12,
+    "release_date": "2022-08-26",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273fda5851154fa029164a281e1",
+    "artist": "blackbear",
+    "genres": [
+      "pop"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "i dont love me",
+        "duration_ms": 197149
+      },
+      {
+        "name": "dead inside",
+        "duration_ms": 182792
+      },
+      {
+        "name": "toxic energy (with Bert McCracken of The Used)",
+        "duration_ms": 191559
+      },
+      {
+        "name": "nothing matters (with Jordan Pundik of New Found Glory)",
+        "duration_ms": 204400
+      },
+      {
+        "name": "gfy (with Machine Gun Kelly)",
+        "duration_ms": 174066
+      },
+      {
+        "name": "broken world",
+        "duration_ms": 229084
+      },
+      {
+        "name": "painkiller",
+        "duration_ms": 185440
+      },
+      {
+        "name": "fuilu",
+        "duration_ms": 177621
+      },
+      {
+        "name": "the idea",
+        "duration_ms": 204642
+      },
+      {
+        "name": "poltergeist (with Bayside)",
+        "duration_ms": 209249
+      },
+      {
+        "name": "back in rehab",
+        "duration_ms": 159844
+      },
+      {
+        "name": "hazel inside",
+        "duration_ms": 184435
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "YUNGBLUD",
+    "num_tracks": 12,
+    "release_date": "2022-09-02",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273661c226e74eeed60652291c0",
+    "artist": "YUNGBLUD",
+    "genres": [
+      "british indie rock",
+      "modern rock",
+      "pov: indie",
+      "rock"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "The Funeral",
+        "duration_ms": 210836
+      },
+      {
+        "name": "Tissues",
+        "duration_ms": 215163
+      },
+      {
+        "name": "Memories (with WILLOW)",
+        "duration_ms": 155919
+      },
+      {
+        "name": "Cruel Kids",
+        "duration_ms": 172080
+      },
+      {
+        "name": "Mad",
+        "duration_ms": 145488
+      },
+      {
+        "name": "I Cry 2",
+        "duration_ms": 116962
+      },
+      {
+        "name": "Sweet Heroine",
+        "duration_ms": 151623
+      },
+      {
+        "name": "Sex Not Violence",
+        "duration_ms": 202768
+      },
+      {
+        "name": "Don't Go",
+        "duration_ms": 149672
+      },
+      {
+        "name": "Don't Feel Like Feeling Sad Today",
+        "duration_ms": 116483
+      },
+      {
+        "name": "Die For A Night",
+        "duration_ms": 92000
+      },
+      {
+        "name": "The Boy In The Black Dress",
+        "duration_ms": 257573
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "TEKKNO",
+    "num_tracks": 10,
+    "release_date": "2022-09-16",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273237fb58544c59034021c3e4b",
+    "artist": "Electric Callboy",
+    "genres": [
+      "comic metal",
+      "german metalcore",
+      "trancecore"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "Pump It",
+        "duration_ms": 172240
+      },
+      {
+        "name": "We Got the Moves",
+        "duration_ms": 206133
+      },
+      {
+        "name": "Fuckboi (feat. Conquer Divide)",
+        "duration_ms": 164000
+      },
+      {
+        "name": "Spaceman (feat. FiNCH)",
+        "duration_ms": 190000
+      },
+      {
+        "name": "Mindreader",
+        "duration_ms": 225000
+      },
+      {
+        "name": "Arrow of Love",
+        "duration_ms": 222866
+      },
+      {
+        "name": "Parasite",
+        "duration_ms": 183000
+      },
+      {
+        "name": "Tekkno Train",
+        "duration_ms": 177626
+      },
+      {
+        "name": "Hurrikan",
+        "duration_ms": 99373
+      },
+      {
+        "name": "Neon",
+        "duration_ms": 191626
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "I Love You, I\u2019m Trying",
+    "num_tracks": 12,
+    "release_date": "2023-05-05",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273e1220554e7a6e9f380d2367a",
+    "artist": "grandson",
+    "genres": [
+      "modern alternative rock",
+      "modern rock",
+      "rock"
+    ],
+    "price": 999,
+    "tracks": [
+      {
+        "name": "Two Along Their Way",
+        "duration_ms": 66081
+      },
+      {
+        "name": "Eulogy",
+        "duration_ms": 141654
+      },
+      {
+        "name": "Something To Hide",
+        "duration_ms": 119047
+      },
+      {
+        "name": "Drones",
+        "duration_ms": 150007
+      },
+      {
+        "name": "I Love You, I\u2019m Trying",
+        "duration_ms": 162459
+      },
+      {
+        "name": "Half My Heart",
+        "duration_ms": 164899
+      },
+      {
+        "name": "When the Bomb Goes",
+        "duration_ms": 154404
+      },
+      {
+        "name": "Enough",
+        "duration_ms": 220650
+      },
+      {
+        "name": "Murderer",
+        "duration_ms": 264770
+      },
+      {
+        "name": "I Will Be Here When You\u2019re Ready To Wake Up (feat. Wafia)",
+        "duration_ms": 60604
+      },
+      {
+        "name": "Heather",
+        "duration_ms": 198468
+      },
+      {
+        "name": "Stuck Here With Me",
+        "duration_ms": 235930
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "HOPE",
+    "num_tracks": 13,
+    "release_date": "2023-04-07",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273ff8a4276b3be31c839557439",
+    "artist": "NF",
+    "genres": [
+      "hip hop",
+      "pop rap"
+    ],
+    "price": 1099,
+    "tracks": [
+      {
+        "name": "HOPE",
+        "duration_ms": 264473
+      },
+      {
+        "name": "MOTTO",
+        "duration_ms": 217271
+      },
+      {
+        "name": "CAREFUL",
+        "duration_ms": 209500
+      },
+      {
+        "name": "MAMA",
+        "duration_ms": 208213
+      },
+      {
+        "name": "HAPPY",
+        "duration_ms": 242691
+      },
+      {
+        "name": "PANDEMONIUM",
+        "duration_ms": 197006
+      },
+      {
+        "name": "SUFFICE",
+        "duration_ms": 265529
+      },
+      {
+        "name": "GONE",
+        "duration_ms": 246118
+      },
+      {
+        "name": "BULLET",
+        "duration_ms": 222510
+      },
+      {
+        "name": "TURN MY BACK",
+        "duration_ms": 216097
+      },
+      {
+        "name": "MISTAKE",
+        "duration_ms": 215186
+      },
+      {
+        "name": "LET EM PRAY",
+        "duration_ms": 213577
+      },
+      {
+        "name": "RUNNING",
+        "duration_ms": 253532
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "GLOW ON",
+    "num_tracks": 15,
+    "release_date": "2021-08-27",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273a4499cf37a6fe4ff043dc9f2",
+    "artist": "Turnstile",
+    "genres": [
+      "hardcore punk",
+      "modern melodic hardcore"
+    ],
+    "price": 1299,
+    "tracks": [
+      {
+        "name": "MYSTERY",
+        "duration_ms": 155199
+      },
+      {
+        "name": "BLACKOUT",
+        "duration_ms": 173279
+      },
+      {
+        "name": "DON'T PLAY",
+        "duration_ms": 133353
+      },
+      {
+        "name": "UNDERWATER BOI",
+        "duration_ms": 184944
+      },
+      {
+        "name": "HOLIDAY",
+        "duration_ms": 172020
+      },
+      {
+        "name": "HUMANOID / SHAKE IT UP",
+        "duration_ms": 69143
+      },
+      {
+        "name": "ENDLESS",
+        "duration_ms": 118541
+      },
+      {
+        "name": "FLY AGAIN",
+        "duration_ms": 151866
+      },
+      {
+        "name": "ALIEN LOVE CALL",
+        "duration_ms": 176002
+      },
+      {
+        "name": "WILD WRLD",
+        "duration_ms": 174764
+      },
+      {
+        "name": "DANCE-OFF",
+        "duration_ms": 129123
+      },
+      {
+        "name": "NEW HEART DESIGN",
+        "duration_ms": 147750
+      },
+      {
+        "name": "T.L.C. (TURNSTILE LOVE CONNECTION)",
+        "duration_ms": 102804
+      },
+      {
+        "name": "NO SURPRISE",
+        "duration_ms": 45462
+      },
+      {
+        "name": "LONELY DEZIRES",
+        "duration_ms": 163186
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "ILLENIUM",
+    "num_tracks": 16,
+    "release_date": "2023-04-28",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b273b1509e7e6067890add82b2ca",
+    "artist": "ILLENIUM",
+    "genres": [
+      "edm",
+      "melodic dubstep",
+      "pop dance"
+    ],
+    "price": 1399,
+    "tracks": [
+      {
+        "name": "Starfall",
+        "duration_ms": 256437
+      },
+      {
+        "name": "All That Really Matters",
+        "duration_ms": 244235
+      },
+      {
+        "name": "Worst Day",
+        "duration_ms": 167274
+      },
+      {
+        "name": "From the Ashes",
+        "duration_ms": 253983
+      },
+      {
+        "name": "Lifeline",
+        "duration_ms": 199500
+      },
+      {
+        "name": "Eyes Wide Shut",
+        "duration_ms": 152331
+      },
+      {
+        "name": "Shivering",
+        "duration_ms": 300916
+      },
+      {
+        "name": "You Were Right",
+        "duration_ms": 235200
+      },
+      {
+        "name": "Insanity",
+        "duration_ms": 183132
+      },
+      {
+        "name": "Drwn",
+        "duration_ms": 220000
+      },
+      {
+        "name": "Other Side",
+        "duration_ms": 211592
+      },
+      {
+        "name": "I Want You 2 (Stay)",
+        "duration_ms": 209577
+      },
+      {
+        "name": "With All My Heart",
+        "duration_ms": 177600
+      },
+      {
+        "name": "Back to You",
+        "duration_ms": 187317
+      },
+      {
+        "name": "Nothing Ever After",
+        "duration_ms": 235714
+      },
+      {
+        "name": "Luv Me a Little",
+        "duration_ms": 224615
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Dead Club City",
+    "num_tracks": 11,
+    "release_date": "2023-06-30",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b2735340930dd48fb071fe422510",
+    "artist": "Nothing But Thieves",
+    "genres": [
+      "alternative pop rock",
+      "modern alternative rock",
+      "modern rock"
+    ],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "Welcome to the DCC",
+        "duration_ms": 197557
+      },
+      {
+        "name": "Overcome",
+        "duration_ms": 214723
+      },
+      {
+        "name": "Tomorrow Is Closed",
+        "duration_ms": 238442
+      },
+      {
+        "name": "Keeping You Around",
+        "duration_ms": 215338
+      },
+      {
+        "name": "City Haunts",
+        "duration_ms": 191389
+      },
+      {
+        "name": "Do You Love Me Yet?",
+        "duration_ms": 326449
+      },
+      {
+        "name": "Members Only",
+        "duration_ms": 169133
+      },
+      {
+        "name": "Green Eyes :: Siena",
+        "duration_ms": 228927
+      },
+      {
+        "name": "Foreign Language",
+        "duration_ms": 234269
+      },
+      {
+        "name": "Talking To Myself",
+        "duration_ms": 255909
+      },
+      {
+        "name": "Pop The Balloon",
+        "duration_ms": 271328
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Menhirs",
+    "num_tracks": 11,
+    "release_date": "2024-03-02",
+    "image_url": "https://i.scdn.co/image/ab67616d0000b27342a2a8d53d6276c79d65823e",
+    "artist": "Roland Cristal",
+    "genres": [],
+    "price": 899,
+    "tracks": [
+      {
+        "name": "Je fais la collection des menhirs",
+        "duration_ms": 127986
+      },
+      {
+        "name": "R\u00e9ponses",
+        "duration_ms": 243586
+      },
+      {
+        "name": "Attention au gravillon",
+        "duration_ms": 174440
+      },
+      {
+        "name": "Les petits cailloux",
+        "duration_ms": 220192
+      },
+      {
+        "name": "La rivi\u00e8re pomme de pierre",
+        "duration_ms": 156586
+      },
+      {
+        "name": "Hommage \u00e0 une pierre",
+        "duration_ms": 108986
+      },
+      {
+        "name": "Ce soir",
+        "duration_ms": 265800
+      },
+      {
+        "name": "Dragon de chenille",
+        "duration_ms": 223280
+      },
+      {
+        "name": "Ce brave Benoit",
+        "duration_ms": 78106
+      },
+      {
+        "name": "Quand nous \u00e9tions des pierres",
+        "duration_ms": 212786
+      },
+      {
+        "name": "Ma petite Pierre pr\u00e9f\u00e9r\u00e9e",
+        "duration_ms": 191000
+      }
+    ]
+  }
+]

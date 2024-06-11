@@ -1,0 +1,35 @@
+<nav class="navbar navbar-expand-md navbar-dark bg-primary">
+    <div class="container-lg">
+        <a class="navbar-brand" href="index.html">
+            <img src="assets/logo.png" alt="logo" width="71" height="40">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto my-auto">
+                <li class="nav-item">
+                    <a class="nav-link {{index}}" aria-current="page" href="index.html">Startseite</a>
+                </li>
+                <li class="d-none d-sm-block"></li>
+                <li class="nav-item">
+                    <a class="nav-link {{cart}}" href="cart.html">Warenkorb</a>
+                </li>
+                <li class="nav-item">
+                    <a href="orders.html" class="nav-link {{orders}}">Meine Bestellungen</a>
+                </li>
+            </ul>
+            <div class="row">
+                <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#cart-offcanvas" id="nav-cart-button">
+                    <img src="assets/full-cart.png" alt="" width="30" height="30">
+                    {{#if (cart_size)}}
+                    <span class="badge rounded-pill bg-black">
+                                        {{cart_size}}
+                    </span>
+                    {{/if}}
+                </button>
+            </div>
+        </div>
+    </div>
+</nav>

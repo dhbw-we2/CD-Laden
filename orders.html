@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>web dev shop</title>
+    <link href="css/bootstrap_lux.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/custom-styles.css">
+    <script src="js/handlebars.min-v4.7.8.js"></script>
+
+    <script src="js/vanilla.js"></script>
+
+    <script src="js/globals.js"></script>
+
+    <script src="js/order-script.js"></script>
+</head>
+
+
+<body onload="init_order()">
+<div class="sticky-top">
+    <script type="text/x-handlebars-template">
+        {{>navbar orders="active"}}
+    </script>
+</div>
+
+<div>
+    <script type="text/x-handlebars-template">
+        {{>cart-offcanvas }}
+    </script>
+</div>
+
+<div>
+    <script type="text/x-handlebars-template">
+        <div class="container mt-3">
+            {{#if orders}}
+                <div class="row g-3">
+                    {{#orders}}
+                        <div class="col-12">
+                        <div class="card">
+                            <div class="card-header">
+                                <h3>Bestellung vom {{date}}</h3>
+                            </div>
+                            <div class="card-body">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-12 col-md-4 mb-3">
+                                            <p class="lead">Summe: {{format_price grand_total}} €</p>
+                                            <a class="btn btn-primary" href="confirmation.html?order_id={{order_nr}}
+                                            ">Details zur Bestellung</a>
+                                        </div>
+                                        <div class="col-12 d-block d-sm-none">
+                                            {{#each (slice items 2)}}
+                                                <img src="{{item.image_url}}" class="img-fluid border border-black border-2" alt="preview img" width="100"
+                                                     height="100">
+                                            {{/each}}
+                                        </div>
+                                        <div class="col-12 d-none d-sm-block d-md-none">
+                                            {{#each (slice items 4)}}
+                                                <img src="{{item.image_url}}" class="img-fluid border border-black border-2" alt="preview img" width="100"
+                                                     height="100">
+                                            {{/each}}
+                                        </div>
+                                        <div class="col-8 d-none d-md-block d-lg-none">
+                                            {{#each (slice items 4)}}
+                                                <img src="{{item.image_url}}" class="img-fluid border border-black border-2" alt="preview img" width="100"
+                                                     height="100">
+                                            {{/each}}
+                                        </div>
+                                        <div class="col-8 d-none d-lg-block">
+                                            {{#each (slice items 5)}}
+                                                <img src="{{item.image_url}}" class="img-fluid border border-black border-2" alt="preview img" width="100"
+                                                     height="100">
+                                            {{/each}}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                    {{/orders}}
+                </div>
+            {{/if}}
+            {{#unless orders}}
+                <h3>Sie haben noch keine Bestellungen aufgegeben</h3>
+            {{/unless}}
+        </div>
+    </script>
+</div>
+<script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

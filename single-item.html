@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title id="title-item-name"></title>
+
+    <link href="css/bootstrap_lux.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/custom-styles.css">
+    <script src="js/handlebars.min-v4.7.8.js"></script>
+
+    <script src="js/vanilla.js"></script>
+
+    <script src="js/globals.js"></script>
+    <script src="js/single-item-script.js"></script>
+
+</head>
+<body onload="init_item()">
+<div class="sticky-top">
+    <script type="text/x-handlebars-template">
+        {{>navbar }}
+    </script>
+</div>
+<div>
+    <script type="text/x-handlebars-template">
+        {{>cart-offcanvas }}
+    </script>
+</div>
+<div>
+    <script type="text/x-handlebars-template">
+        <div class="container mt-2">
+            <div class="row">
+                <div class="col-12 col-md-6">
+                    <div class="position-relative border border-black border-2">
+                    <img class="img img-fluid" src="{{shown_item.image_url}}"
+                         alt="Product Image">
+                    {{#if (amount_in_cart shown_item.id)}}
+                    <span class="badge position-absolute end-0 h2 text-white bg-success">
+                        Im Warenkorb
+                        </span>
+                    {{/if}}
+                    </div>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="h2">
+                        {{shown_item.name}}
+                    </div>
+                    <table class="table">
+                        <tr>
+                            <td>Künstler:</td>
+                            <td>{{shown_item.artist}}</td>
+                        </tr>
+                        <tr>
+                            <td>Veröffentlichung:</td>
+                            <td>{{format_date shown_item.release_date}}</td>
+                        </tr>
+                        <tr>
+                            <td>Anzahl Tracks:</td>
+                            <td>{{shown_item.num_tracks}}</td>
+                        </tr>
+                    </table>
+                    <div>
+                    <h1 class="fw-bolder">{{format_price shown_item.price}} €</h1>
+                    </div>
+                    <div>
+                    <button class="btn btn-success" onclick="add_to_cart({{shown_item.id}})">Zum Warenkorb hinzufügen
+                    </button>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <h3>Tracks</h3>
+                    <table class="table">
+                        {{#shown_item.tracks}}
+                        <tr>
+                            <td>{{plus_one @key}}. {{name}}</td>
+                            <td>Dauer: {{ms_to_min duration_ms}}</td>
+                            </li>
+                        {{/shown_item.tracks}}
+                    </table>
+                </div>
+            </div>
+        </div>
+    </script>
+</div>
+
+<script src="js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

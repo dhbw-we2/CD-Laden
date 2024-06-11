@@ -1,0 +1,59 @@
+.trunc-text {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+}
+
+.shop-image{
+    height: 180px;
+    object-fit:contain
+}
+
+.shop-header {
+    height: 64px;
+}
+
+.trunc-header {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+}
+
+.container {
+    max-width: 960px;
+}
+
+.lh-condensed { line-height: 1.25; }
+
+.h5-text-lines-2 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    height: 2.5rem;
+    overflow: hidden;
+}
+
+.h6-text-lines-2 {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    height: 1.8rem;
+    overflow: hidden;
+}
+
+#filter-button:hover {
+    img {
+        filter: invert(1);
+    }
+}
+
+#nav-cart-button {
+    img {
+        filter: invert(1);
+        :hover {
+            background: none;
+        }
+    }
+}

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link href="css/bootstrap_lux.css" rel="stylesheet">
+    <link href="css/custom-styles.css" rel="stylesheet">
+    <script src="js/handlebars.min-v4.7.8.js"></script>
+    <script src="js/globals.js"></script>
+
+    <script src="js/vanilla.js"></script>
+
+    <script src="js/confirmation-script.js"></script>
+
+    <title>Checkout - web dev shop</title>
+
+</head>
+<body onload="init_confirmation()">
+<div class="sticky-top">
+    <script type="text/x-handlebars-template">
+        {{>navbar }}
+    </script>
+</div>
+<div>
+    <script type="text/x-handlebars-template">
+       {{>cart-offcanvas }}
+    </script>
+</div>
+<div>
+    <script type="text/x-handlebars-template">
+        <div class="container mt-3">
+            <h1>Bestellbestätigung</h1>
+            <div class="lead">Sie haben folgende Produkte bestellt:</div>
+                    <div class="row g-3 mt-1">
+                        {{#each order.items}}
+                            <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+                                <div class="card h-100 border border-black border-2">
+                                    <img src="{{item.image_url}}" alt="Product Image"
+                                        class="img-fluid card-img-top border-bottom border-black border-2">
+                                    <div class="card-body">
+                                        <h5 class="card-title h5-text-lines-2">{{item.name}}</h5>
+                                        <h6 class="card-subtitle mb-1 h6-text-lines-2">{{item.artist}}</h6>
+                                        <div class="d-flex justify-content-between">
+                                            <span class="fw-bold">
+                                                x {{amount}}
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        {{/each}}
+                    </div>
+
+            <div class="mt-5"
+            <div class="card">
+                <div class="card-header">
+                    <h3>Rechnungsinformationen</h3>
+                </div>
+                <div class="card-body">
+                    <table class="table">
+                        <tr>
+                            <td>Vorname:</td>
+                            <td>{{order.billing_info.first_name}}</td>
+                        </tr>
+                        <tr>
+                            <td>Name:</td>
+                            <td>{{order.billing_info.last_name}}</td>
+                        </tr>
+                        <tr>
+                            <td>E-Mail Adresse:</td>
+                            <td>{{order.billing_info.email}}</td>
+                        </tr>
+                        <tr>
+                            <td>Wohnort:</td>
+                            <td>{{order.billing_info.city}}, {{order.billing_info.country}}</td>
+                        </tr>
+                        <tr>
+                            <td>Adresse:</td>
+                            <td>{{order.billing_info.address}}</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </script>
+</div>
+<script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

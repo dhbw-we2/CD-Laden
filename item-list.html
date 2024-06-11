@@ -1,0 +1,36 @@
+<div class="container mt-3">
+    <div class="row g-3">
+        {{#if all_items}}
+        {{#all_items}}
+        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3">
+            <div class="card h-100 border border-black border-2">
+                <img src="{{image_url}}" alt="Product Image"
+                     class="img-fluid card-img-top border-bottom border-black border-2">
+                <div class="card-body">
+                    <h5 class="card-title h5-text-lines-2">{{name}}</h5>
+                    <h6 class="card-subtitle mb-1 h6-text-lines-2">{{artist}}</h6>
+                    <div class="d-flex justify-content-between">
+                            <span class="fw-bold">
+                                {{format_price price}} €
+                            </span>
+                        <button style="border: none; z-index: 101; position: relative; background: none">
+                            <img src="assets/add-to-cart.png" alt="add-to-cart" type="button"
+                                 onclick="add_to_cart({{id}})" width="45" height="45">
+                        </button>
+                    </div>
+                    <a href="single-item.html?id={{id}}" class="stretched-link"></a>
+                    {{#if (amount_in_cart id)}}
+                    <span class="badge position-absolute top-0 end-0 h2 text-white bg-success">
+                                    Im Warenkorb
+                                </span>
+                    {{/if}}
+                </div>
+            </div>
+        </div>
+        {{/all_items}}
+        {{/if}}
+        {{#unless all_items}}
+        <h5 class="text-center justify-content-center">Die eingestellten Filter haben keine Suchergebnisse ergeben</h5>
+        {{/unless}}
+    </div>
+</div>

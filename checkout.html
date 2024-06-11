@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link href="css/bootstrap_lux.css" rel="stylesheet">
+    <link href="css/custom-styles.css" rel="stylesheet">
+    <script src="js/handlebars.min-v4.7.8.js"></script>
+    <script src="js/globals.js"></script>
+
+    <script src="js/vanilla.js"></script>
+
+    <script src="js/checkout.js"></script>
+
+    <title>Checkout - web dev shop</title>
+
+</head>
+<body onload="init_checkout()">
+<div class="sticky-top">
+    <script type="text/x-handlebars-template">
+        {{>navbar }}
+    </script>
+</div>
+<div>
+    <script type="text/x-handlebars-template">
+        {{>cart-offcanvas }}
+    </script>
+</div>
+<div class="container d-flex justify-content-center">
+    <div class="col-lg-8 col-md-10 col-sm-12">
+        <h1>Kasse</h1>
+        <div class="container mb-2">
+            <form class="needs-validation" id="checkout-form" novalidate>
+                <div class="mb-3">
+                    <label for="firstName">Vorname</label>
+                    <input type="text" class="form-control" id="firstName" placeholder="Max" required>
+                    <div class="invalid-feedback"> Bitte geben Sie Ihren Vornamen ein.</div>
+                </div>
+                <div class="mb-3">
+                    <label for="lastName">Name</label>
+                    <input type="text" class="form-control" id="lastName" placeholder="Mustermann" required>
+                    <div class="invalid-feedback"> Bitte geben Sie Ihren Nachnamen ein.</div>
+                </div>
+                <div class="mb-3">
+                    <label for="email">Email-Adresse </label>
+                    <input type="email" class="form-control" id="email" placeholder="max.mustermann@email.de" required>
+                    <div class="invalid-feedback"> Bitte geben Sie eine valide Email-Addresse an, um Informationen
+                        zu Ihrer Bestellung zu erhalten.
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label for="city">Postleitzahl, Ort</label>
+                    <input type="text" class="form-control" id="city" placeholder="68159 Mannheim" required>
+                    <div class="invalid-feedback"> Bitte geben Sie den Ort Ihres Wohnsitzes an.</div>
+                </div>
+                <div class="mb-3">
+                    <label for="address">Straße, Hausnummer</label>
+                    <input type="text" class="form-control" id="address" placeholder="Musterstraße 1" required>
+                    <div class="invalid-feedback"> Bitte geben Sie Ihre Lieferadresse an.</div>
+                </div>
+                <div class="mb-3">
+                    <label for="country">Land</label>
+                    <input type="text" class="form-control" id="country" placeholder="Deutschland" required>
+                    <div class="invalid-feedback"> Bitte geben Sie das Land Ihres Wohnsitzes an.</div>
+                </div>
+                <hr class="mb-4">
+                <h4 class="mb-3">Payment</h4>
+                <div class="d-block my-3">
+                    <div class="custom-control custom-radio">
+                        <input id="credit" name="paymentMethod" type="radio" class="custom-control-input"
+                               value="payment" checked required onclick='showblock();check_require()'>
+                        <label class="custom-control-label" for="credit">Kreditkarte</label>
+                    </div>
+                    <div class="custom-control custom-radio">
+                        <input id="debit" name="paymentMethod" type="radio" class="custom-control-input"
+                               value="payment" required onclick='showblock();check_require()'>
+                        <label class="custom-control-label" for="debit">Debitkarte</label>
+                    </div>
+                    <div class="custom-control custom-radio">
+                        <input id="paypal" name="paymentMethod" type="radio" class="custom-control-input" value="payment" required onclick='showblock();check_require()'>
+                        <label class="custom-control-label" for="paypal">PayPal</label>
+                    </div>
+                </div>
+                <div data-topic="payment" style="display: block;" id="card payment">
+                    <div class="mb-3">
+                        <label for="cc_name">Name</label>
+                        <input type="text" class="form-control" id="cc_name" required >
+                        <small class="text-muted">Vollständiger Name, der auf der Karte angezeigt wird</small>
+                        <div class="invalid-feedback"> Name notwendig</div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="cc_number">Kreditkartennummer</label>
+                        <input type="text" class="form-control" id="cc_number" required>
+                        <div class="invalid-feedback"> Kreditkartennummer notwendig</div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="cc_expiration">gültig bis</label>
+                        <input type="text" class="form-control" id="cc_expiration" required>
+                        <div class="invalid-feedback"> Ablaufdatum notwendig</div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="cc_cvv">Sicherheitscode</label>
+                        <input type="text" class="form-control" id="cc_cvv" required>
+                        <div class="invalid-feedback"> Sicherheitscode notwendig</div>
+                    </div>
+                </div>
+                <hr class="mb-4">
+                <button class="btn btn-primary btn-lg btn-block" type="submit">Continue to checkout</button>
+            </form>
+        </div>
+    </div>
+</div>
+<script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

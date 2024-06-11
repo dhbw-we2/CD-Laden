@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link href="css/bootstrap_lux.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/custom-styles.css">
+    <script src="js/handlebars.min-v4.7.8.js"></script>
+    <script src="js/globals.js"></script>
+
+    <script src="js/cart-script.js"></script>
+    <script src="js/vanilla.js"></script>
+
+    <title>Warenkorb - web dev shop</title>
+
+</head>
+<body onload="init_cart()">
+<div class="sticky-top">
+    <script type="text/x-handlebars-template">
+        {{>navbar cart="active"}}
+    </script>
+</div>
+
+<div>
+    <script type="text/x-handlebars-template">
+        {{>cart-offcanvas }}
+    </script>
+</div>
+
+<div class="modal fade" id="delete-modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="modal-title"></div>
+                <button type="button" class="btn btn-close" data-bs-dismiss="modal" ></button>
+            </div>
+            <div class="modal-body lead fw-bold">
+                Möchten Sie das Album <div class="fw-bolder" id="delete_item_name"></div> aus Ihrem Warenkorb entfernen?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal" id="delete-button"> Entfernen </button>
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal"> Nein </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+<!--    Items in Cart-->
+        <script type="text/x-handlebars-template">
+            <div>
+                <div class="container d-flex justify-content-center">
+                    <div class="col-lg-8 col-md-8">
+                        <h1>Warenkorb</h1>
+                        {{#each cart_items}}
+                            <div class="card my-2">
+                                <div class="card-header">{{item.name}}</div>
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-md-6 order-md-2">
+                                            <img class="shop-image img-fluid card-img-top" src="{{item.image_url}}"
+                                                 alt="Product Image">
+                                            <a class="stretched-link" type="button"
+                                               href="single-item.html?id={{item.id}}"></a>
+                                        </div>
+                                        <div class="col-md-6 order-md-2 mb-4">
+                                            Anzahl:
+                                            <div class="input-group mb-3 position-relative z-3">
+                                                <button onclick="remove_one({{item.id}})"
+                                                        class="btn btn-outline-secondary"
+                                                        type="button">
+                                                    -
+                                                </button>
+                                                <input id="amount-input-{{item.id}}"
+                                                       onchange="submit_amount({{item.id}})"
+                                                       pattern="[0123456789]{1,4}" value="{{amount}}" size="2rem">
+                                                <button onclick="add_one({{item.id}})"
+                                                        class="btn btn-outline-secondary"
+                                                        type="button">+
+                                                </button>
+                                            </div>
+                                            <button type="button" class="btn btn-primary position-relative z-3" data-bs-toggle="modal"
+                                                    data-bs-target="#delete-modal" id="delete-button-{{item.id}}"
+                                                    data-bs-modaldata="{{item.id}}">
+                                                Entfernen
+                                            </button>
+                                            <div>
+                                                <div>Stückpreis: {{format_price item.price}} €</div>
+                                                <div>Summe: {{format_price (multiply amount item.price)}} €</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        {{/each}}
+                        {{#if (empty_cart)}}
+                            <p>Ihr Warenkorb ist leer</p>
+                        {{/if}}
+                    </div>
+                </div>
+                <div>
+                    <br>
+                    <!-- This is here to prevent the unless block below from blocking the view onto the last card -->
+                    <br>
+                    <br>
+                </div>
+                {{#unless (empty_cart)}}
+                    <div class="p-2 fixed-bottom bg-white border-top border-black d-flex justify-content-around">
+                        <span class="align-text-bottom">Summe: {{format_price grand_total}} €</span>
+                        <span><a class="btn btn-primary" href="checkout.html">Weiter zur Kasse</a></span>
+                    </div>
+                {{/unless}}
+            </div>
+        </script>
+    </div>
+
+<script src="js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
