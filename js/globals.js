@@ -19,7 +19,7 @@ async function load_data() {
         cart_items = JSON.parse(localStorage.getItem(CART_KEY))
     }
     if (localStorage.getItem(ITEMS_KEY) == null) {
-        await fetch("../product_data.json")
+        await fetch("product_data.json")
             .then(res => res.json())
             .then(json => {
                 localStorage.setItem(ITEMS_KEY, JSON.stringify(json))
